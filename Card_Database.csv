@@ -1,0 +1,838 @@
+id,name,type,mana,attack,hp,faction,rarity,setName,description
+1,Argeon Highmayne,General,N/A,2.0,25.0,Lyonar,Basic,Core,Bloodbound Spell: Give a friendly minion nearby your General +2 Attack.
+51,Brome Warcrest,General,N/A,2.0,25.0,Lyonar,Basic,Core,Bloodbound Spell: Summon a 1/2 Crestfallen with <b>Zeal</b>: <b>Provoke</b> in front of your General.
+323,Cassyva Soulreaper,General,N/A,2.0,25.0,Abyssian,Basic,Core,"Bloodbound Spell: Deal 1 damage to a minion. If it dies this turn, the space turns into Shadow Creep."
+254,Ciphyron Ascendant,General,N/A,2.0,25.0,Vetruvian,Basic,Core,Bloodbound Spell: Give an enemy minion -2 Attack until your next turn.
+501,Faie Bloodwing,General,N/A,2.0,25.0,Vanar,Basic,Core,Bloodbound Spell: Deal 2 damage to all enemies in the enemy General's Column.
+558,Ilena Cryobyte,General,N/A,2.0,25.0,Vanar,Basic,Core,Bloodbound Spell: <b>Stun</b> a nearby enemy minion.
+101,Kaleos Xaan,General,N/A,2.0,25.0,Songhai,Basic,Core,Bloodbound Spell: Teleport a friendly minion up to 2 spaces.
+527,Kara Winterblade,General,N/A,2.0,25.0,Vanar,Basic,Core,Bloodbound Spell: Friendly minions summoned this turn gain +1/+1.
+301,Lilithe Blightchaser,General,N/A,2.0,25.0,Abyssian,Basic,Core,Bloodbound Spell: Summon 2 Wraithlings nearby your General.
+355,Maehv Skinsolder,General,N/A,2.0,25.0,Abyssian,Basic,Core,Bloodbound Spell: Destroy a friendly minion to summon a 4/4 Husk nearby. Deal 2 damage to your General.
+449,Ragnora the Relentless,General,N/A,2.0,25.0,Magmar,Basic,Core,Bloodbound Spell: Summon a Ripper Egg nearby your General.
+123,Reva Eventide,General,N/A,2.0,25.0,Songhai,Basic,Core,Bloodbound Spell: Summon a Heartseeker nearby your General.
+223,Scioness Sajj,General,N/A,2.0,25.0,Vetruvian,Basic,Core,Bloodbound Spell: Your General deals double damage to minions this turn.
+152,Shidai Stormblossom,General,N/A,2.0,25.0,Songhai,Basic,Core,Bloodbound Spell: Put a Spellsword into your action bar that cannot be replaced.
+418,Starhorn the Seeker,General,N/A,2.0,25.0,Magmar,Basic,Core,Bloodbound Spell: Both players draw a card.
+401,Vaath the Immortal,General,N/A,2.0,25.0,Magmar,Basic,Core,Bloodbound Spell: Give your General +1 Attack.
+23,Zir'An Sunforge,General,N/A,2.0,25.0,Lyonar,Basic,Core,Bloodbound Spell: Restore 3 Health to any Minion.
+201,Zirix Starstrider,General,N/A,2.0,25.0,Vetruvian,Basic,Core,Bloodbound Spell: Summon a 2/2 Iron Dervish on a random space nearby your General.
+20109,Beam Shock,Spell,0.0,N/A,N/A,Lyonar,Common,Core,<b>Stun</b> an enemy.
+20335,Burden of Knowledge,Spell,0.0,N/A,N/A,Vetruvian,Common,Immortal,Deal 3 damage to your General to draw a card.
+20111,Dampening Wave,Spell,0.0,N/A,N/A,Magmar,Basic,Core,Choose an enemy minion. It can no longer counterattack.
+20059,Darkfire Sacrifice,Spell,0.0,N/A,N/A,Abyssian,Rare,Core,Destroy a friendly minion. Your next minion costs 2 less.
+20139,Flash Freeze,Spell,0.0,N/A,N/A,Vanar,Basic,Core,Deal 1 damage to a minion and <b>Stun</b> it.
+20112,Flash Reincarnation,Spell,0.0,N/A,N/A,Magmar,Rare,Core,"If the next card you play this turn is a minion, it costs 2 less and takes 2 damage."
+154,Hideatsu the Ebon Ox,Minion,0.0,5.0,5.0,Songhai,Mythron,Mythron,<b>Trial</b>: Summon 7 minions from your action bar with different costs.<br/><b>Destiny</b>: Summon friendly minions to deal their cost as damage to an enemy.
+20129,Juxtaposition,Spell,0.0,N/A,N/A,Songhai,Epic,Core,Switch positions between ANY two minions.
+20085,Mana Vortex,Spell,0.0,N/A,N/A,Songhai,Rare,Core,The next spell you cast this turn costs 1 less.
+20355,Meditate,Spell,0.0,N/A,N/A,Songhai,Rare,Mythron,Shuffle five copies of the spell you cast most recently into your deck (excluding Meditate).
+20150,Polarity,Spell,0.0,N/A,N/A,Vanar,Common,Core,Switch ANY minion's Attack and Health.
+227,Rae,Battle Pet,0.0,1.0,1.0,Vetruvian,Common,ShimZar,<b>Dying Wish</b>: Dispel the nearest enemy minion.
+20073,Siphon Energy,Spell,0.0,N/A,N/A,Vetruvian,Common,Core,Dispel an enemy minion nearby your General.
+20316,Steadfast Formation,Spell,0.0,N/A,N/A,Lyonar,Common,Immortal,Give friendly minions in a 2x2 area <b>Provoke</b>.
+30004,Sunstone Bracers,Artifact,0.0,N/A,N/A,Lyonar,Basic,Core,Your General gains +1 Attack.
+308,Abyssal Crawler,Minion,1.0,2.0,1.0,Abyssian,Basic,Core,"At the end of your turn, turn a nearby space into <b>Shadow Creep</b>."
+126,Ace,Battle Pet,1.0,1.0,2.0,Songhai,Common,ShimZar,<b>Ranged</b>
+20120,Aegis Barrier,Spell,1.0,N/A,N/A,Lyonar,Legendary,Core,Choose a friendly minion. It can't be targeted by enemy spells. Draw a card.
+20158,Aerial Rift,Spell,1.0,N/A,N/A,Lyonar,Epic,Core,Give your minions <b>Airdrop</b> this turn.  Draw a card.
+20119,Amplification,Spell,1.0,N/A,N/A,Magmar,Common,Core,Give a friendly damaged minion +2 Attack and +4 Health.
+20255,Arid Unmaking,Spell,1.0,N/A,N/A,Vetruvian,Common,Unearthed,Destroy a friendly minion to turn its space into <b>Exhuming Sand</b>.
+20393,Aspect of Ego,Spell,1.0,N/A,N/A,Vanar,Rare,Mythron,Transform ANY minion into a random minion of the same cost.
+20323,Assassination Protocol,Spell,1.0,N/A,N/A,Songhai,Common,Immortal,Reactivate an exhausted friendly minion. It cannot damage or attack Generals this turn.
+20132,Auroras Tears,Spell,1.0,N/A,N/A,Vetruvian,Epic,Core,"This turn, your General gains +2 Attack for every equipped artifact."
+20045,Auryn Nexus,Spell,1.0,N/A,N/A,Lyonar,Common,Core,Give a friendly minion +3 Health.
+20286,Azure Summoning,Spell,1.0,N/A,N/A,Vetruvian,Epic,Unearthed,"Whenever you summon a minion with <b>Flying</b> from your action bar this turn, draw a minion with <b>Flying</b> from your deck."
+20075,Blindscorch,Spell,1.0,N/A,N/A,Vetruvian,Basic,Core,Lower a minion's Attack to 0 until your next turn.
+19052,Bloodtear Alchemist,Minion,1.0,2.0,1.0,Neutral,Basic,Core,<b>Opening Gambit</b>: Deal 1 damage to an enemy.
+30023,Crescent Spear,Artifact,1.0,N/A,N/A,Songhai,Legendary,ShimZar,Your General gains +1 Attack. Spells you cast that deal damage deal +1 damage.
+20115,Dance of Dreams,Spell,1.0,N/A,N/A,Magmar,Basic,Core,"Whenever a friendly minion dies this turn, draw a card."
+20376,Demonic Conversion,Spell,1.0,N/A,N/A,Abyssian,Common,Mythron,Draw a minion from your opponent's deck. It gains +1/+1.
+10001,Dragonlark,Minion,1.0,2.0,1.0,Neutral,Basic,Core,<b>Flying</b>
+20233,Draining Wave,Spell,1.0,N/A,N/A,Lyonar,Common,Ancients,Deal 4 damage to a minion AND your General.
+11022,Dreamgazer,Minion,1.0,1.0,1.0,Neutral,Epic,Core,"When you replace this card, summon it on a random nearby space. Your General takes 2 damage."
+20300,Droplift,Spell,1.0,N/A,N/A,Vetruvian,Rare,Unearthed,Steal a random artifact from the enemy General and equip it.
+20329,Essence Sculpt,Spell,1.0,N/A,N/A,Vanar,Rare,Immortal,Choose a <b>Stunned</b> minion. Put a copy of that card into your action bar.
+30037,Eternal Heart,Artifact,1.0,N/A,N/A,Magmar,Legendary,Unearthed,Your General cannot die.
+20189,Fighting Spirit,Spell,1.0,N/A,N/A,Lyonar,Epic,ShimZar,Give all friendly minions +1 Health. Put a random Battle Pet into your action bar.
+20287,Fortified Assault,Spell,1.0,N/A,N/A,Lyonar,Rare,Unearthed,Turn an enemy minion's space into <b>Hallowed Ground</b>. Deal it 1 damage for each friendly <b>Hallowed Ground</b>.
+331,Furiosa,Minion,1.0,1.0,2.0,Abyssian,Common,Ancients,<b>Blood Surge</b>: Friendly Wraithlings gain +1/+1.
+20088,Ghost Lightning,Spell,1.0,N/A,N/A,Songhai,Basic,Core,Deal 1 damage to all enemy minions.
+30028,Godhammer,Artifact,1.0,N/A,N/A,Magmar,Rare,Ancients,"Your minions have ""Grow: +1/+1."""
+20275,Gotatsu,Spell,1.0,N/A,N/A,Songhai,Common,Unearthed,Deal 1 damage to a minion. Draw a card at end of turn.
+20070,Grasp of Agony,Spell,1.0,N/A,N/A,Abyssian,Common,Core,"Choose an enemy minion. When it dies, it deals 3 damage to enemies around it."
+20116,Greater Fortitude,Spell,1.0,N/A,N/A,Magmar,Basic,Core,Give a friendly minion +2/+2.
+108,Heartseeker,Minion,1.0,1.0,1.0,Songhai,Common,Core,<b>Ranged</b>
+19002,Helm of MECHAZ0R,Mech,1.0,2.0,2.0,Neutral,Common,Core,<b>Opening Gambit</b>: Progresses MECHAZ0R build by +20%.
+30005,Horn of the Forsaken,Artifact,1.0,N/A,N/A,Abyssian,Basic,Core,"Whenever your General deals damage, summon a 1/1 Wraithling nearby your General."
+30052,Horned Mask,Artifact,1.0,N/A,N/A,Songhai,Epic,Mythron,"Your General gains +1 Attack.<br/>After a friendly minion with <b>Backstab</b> attacks, it gains +1/+1."
+30031,Iceshatter Gauntlet,Artifact,1.0,N/A,N/A,Vanar,Rare,Ancients,"Whenever your General attacks a <b>Stunned</b> minion, destroy it instantly."
+20272,Inkling Surge,Spell,1.0,N/A,N/A,Abyssian,Common,Unearthed,"Summon a 1/1 Wraithling. If you have another Wraithling, draw a card."
+20086,Inner Focus,Spell,1.0,N/A,N/A,Songhai,Basic,Core,Reactivate an exhausted friendly minion with 3 or less Attack.
+20256,Joseki,Spell,1.0,N/A,N/A,Songhai,Common,Ancients,Each player steals a random card from their opponent's deck.
+129,Katara,Minion,1.0,1.0,3.0,Songhai,Common,ShimZar,<b>Backstab</b>: (3).
+20313,Kinematic Projection,Spell,1.0,N/A,N/A,Vetruvian,Rare,Immortal,Give a minion Blast. It can no longer move.
+20354,Knucklestorm,Spell,1.0,N/A,N/A,Songhai,Common,Mythron,<b>Intensify</b>: Deal 1 damage to an enemy.
+11053,Koi,Battle Pet,1.0,3.0,1.0,Neutral,Common,ShimZar,This minion takes no damage from Generals.
+10018,Komodo Charger,Minion,1.0,1.0,3.0,Neutral,Basic,Core,
+20203,Lava Lance,Spell,1.0,N/A,N/A,Magmar,Common,ShimZar,"Deal 2 damage to a minion. If you have an Egg, deal 4 damage instead."
+20361,Lifestream,Spell,1.0,N/A,N/A,Lyonar,Common,Mythron,"Fully heal a friendly minion, then draw a copy of it from your deck."
+20062,Lionheart Blessing,Spell,1.0,N/A,N/A,Lyonar,Rare,Core,"Give a friendly minion, ""Zeal: Whenever this minion deals damage, draw a card."""
+20161,Magnetize,Spell,1.0,N/A,N/A,Lyonar,Rare,Core,Pull ANY minion to the space in front of your General.
+20261,Mana Deathgrip,Spell,1.0,N/A,N/A,Vanar,Common,Ancients,"Deal 1 damage to an enemy minion. If it dies this turn, permanently gain 1 mana crystal."
+20138,Mesmerize,Spell,1.0,N/A,N/A,Vanar,Rare,Core,Teleport an enemy one space.
+11141,Mirrorrim,Minion,1.0,2.0,1.0,Neutral,Common,Mythron,<b>Opening Gambit</b>: Shuffle three copies of a friendly minion into your deck.
+20168,Mist Dragon Seal,Spell,1.0,N/A,N/A,Songhai,Common,Core,Give a friendly minion +1/+1 and teleport it anywhere.
+20167,Mist Walking,Spell,1.0,N/A,N/A,Songhai,Rare,Core,Teleport your General up to 2 spaces.
+20269,Nethermeld,Spell,1.0,N/A,N/A,Abyssian,Epic,Unearthed,Teleport ANY minion to friendly <b>Shadow Creep</b>.
+30036,Oblivion Sickle,Artifact,1.0,N/A,N/A,Vetruvian,Legendary,Unearthed,"Whenever your General destroys an enemy, turn that space into <b>Exhuming Sand</b>."
+20241,Obscuring Blow,Spell,1.0,N/A,N/A,Songhai,Rare,Ancients,Give a friendly minion or General <b>Backstab</b> (2).
+20356,Painful Pluck,Spell,1.0,N/A,N/A,Abyssian,Common,Mythron,"<b>Intensify</b>: Turn 1 random space into <b>Shadow Creep</b>, prioritizing spaces under enemy minions."
+20378,Planar Foundry,Spell,1.0,N/A,N/A,Vetruvian,Common,Mythron,Draw an artifact from your deck.
+10019,Planar Scout,Minion,1.0,2.0,1.0,Neutral,Basic,Core,<b>Airdrop</b>
+11016,Prophet of the White Palm,Minion,1.0,1.0,1.0,Neutral,Rare,Core,<b>Opening Gambit</b>: Prevent ALL spell damage until your next turn.
+30049,Rage Reactor,Artifact,1.0,N/A,N/A,Magmar,Rare,Immortal,"Your General gains +1 Attack.<br/>Whenever your General destroys an enemy, summon a Ripper Egg on that space."
+20202,Razor Skin,Spell,1.0,N/A,N/A,Magmar,Common,ShimZar,Give all friendly minions +1 Attack. Put a random Battle Pet into your action bar.
+421,Rex,Battle Pet,1.0,3.0,1.0,Magmar,Common,ShimZar,<b>Rebirth</b>
+20280,Sanctify,Spell,1.0,N/A,N/A,Lyonar,Common,Unearthed,Give a friendly minion +1/+1 and turn its space into <b>Hallowed Ground</b>.
+20095,Scion's First Wish,Spell,1.0,N/A,N/A,Vetruvian,Basic,Core,Give a friendly minion +1/+1. Draw a card.
+20192,Shadow Waltz,Spell,1.0,N/A,N/A,Songhai,Common,ShimZar,Lower the cost of all minions with <b>Backstab</b> in your action bar by 1 and give them +1/+1.
+14,Silverguard Squire,Minion,1.0,1.0,4.0,Lyonar,Common,Core,
+26,Slo,Battle Pet,1.0,1.0,4.0,Lyonar,Common,ShimZar,<b>Provoke</b>
+510,Snow Chaser,Vespyr,1.0,2.0,1.0,Vanar,Rare,Core,"<b>Infiltrate</b>:  When this minion dies, return it to your action bar."
+20201,Sphere of Darkness,Spell,1.0,N/A,N/A,Abyssian,Common,ShimZar,Turn a space into <b>Shadow Creep</b>. Draw a card.
+20294,Spiral Counter,Spell,1.0,N/A,N/A,Songhai,Common,Unearthed,Deal 8 damage to an enemy minion that attacked last turn.
+20246,Stone to Spears,Spell,1.0,N/A,N/A,Vetruvian,Rare,Ancients,A friendly Obelysk gains +3 Attack and may move and attack this turn if able.
+20043,Sundrop Elixir,Spell,1.0,N/A,N/A,Lyonar,Common,Core,Restore 5 Health to anything.
+38,Sunrise Cleric,Minion,1.0,1.0,3.0,Lyonar,Common,Unearthed,<b>Opening Gambit</b>: Turn a nearby space into <b>Hallowed Ground</b>.
+19025,Swamp Entangler,Minion,1.0,0.0,3.0,Neutral,Common,Core,<b>Provoke</b>
+20066,True Strike,Spell,1.0,N/A,N/A,Lyonar,Basic,Core,Deal 2 damage to a minion.
+20209,Vespyric Call,Spell,1.0,N/A,N/A,Vanar,Epic,ShimZar,Put a random Vespyr minion into your action bar. It costs 1 less and has +1/+1.
+20052,Void Pulse,Spell,1.0,N/A,N/A,Abyssian,Common,Core,Deal 2 damage to enemy General. Restore 3 Health to your General.
+20375,Wanderlust,Spell,1.0,N/A,N/A,Vanar,Common,Mythron,<b>Intensify</b>: Teleport 1 random enemy minion to a space on your starting side of the battlefield.
+11083,Zyx,Minion,1.0,1.0,2.0,Neutral,Rare,Core,<b>Opening Gambit</b>: Summon a copy of this minion on a random nearby space.
+10993,Aethermaster,Arcanyst,2.0,1.0,3.0,Neutral,Epic,Core,You may replace an additional card each turn.
+11001,Amu,Battle Pet,2.0,3.0,3.0,Neutral,Common,ShimZar,
+451,Angered Okkadok,Minion,2.0,1.0,2.0,Magmar,Common,Mythron,<b>Intensify</b>: This minion gains +1/+1.
+20226,Aphotic Drain,Spell,2.0,N/A,N/A,Abyssian,Common,Ancients,Destroy a friendly minion to restore 5 Health to your General.
+11017,Araki Headhunter,Minion,2.0,1.0,3.0,Neutral,Epic,Core,"Whenever you summon a minion with Opening Gambit from your action bar, gain +2 Attack."
+11152,Araras Prophet,Arcanyst,2.0,1.0,3.0,Neutral,Rare,Mythron,"Whenever you replace a card, shuffle a Brilliant Plume into your deck."
+20106,Artifact Defiler,Spell,2.0,N/A,N/A,Songhai,Common,Core,Destroy all artifacts on the enemy General.
+20214,Aspect of Shim'Zar,Spell,2.0,N/A,N/A,Vanar,Common,ShimZar,Transform ANY minion into a random Battle Pet.
+20324,Aspect of the Bear,Spell,2.0,N/A,N/A,Vanar,Common,Immortal,Transform ANY minion into a 4/5 Ursaplomb that will not counterattack.
+20144,Aspect of the Ravager,Spell,2.0,N/A,N/A,Vanar,Basic,Core,Transform ANY minion into a 3/3 Ravager with no abilities.
+11084,Azure Herald,Minion,2.0,1.0,4.0,Neutral,Common,Core,<b>Opening Gambit</b>: Restore 3 Health to your General.
+19050,Azure Horn Shaman,Minion,2.0,1.0,4.0,Neutral,Rare,Core,<b>Dying Wish</b>: Give +4 Health to friendly minions around it.
+21,Azurite Lion,Minion,2.0,2.0,3.0,Lyonar,Common,Core,<b>Celerity</b>
+444,Biomimetic Hulk,Minion,2.0,10.0,10.0,Magmar,Common,Immortal,<b>Build</b>: (3).
+313,Blood Siren,Minion,2.0,3.0,2.0,Abyssian,Common,Core,<b>Opening Gambit</b>: Give a nearby enemy -2 attack this turn.
+30010,Bloodrage Mask,Artifact,2.0,N/A,N/A,Songhai,Basic,Core,"Whenever you cast a spell, deal 1 damage to the enemy General."
+19029,Bluetip Scorpion,Minion,2.0,3.0,1.0,Neutral,Common,Core,Deals double damage to minions.
+20315,Bolster,Spell,2.0,N/A,N/A,Lyonar,Common,Mythron,<b>Intensify</b>: Give friendly minions +2 Health.
+20151,Bone Swarm,Spell,2.0,N/A,N/A,Vetruvian,Common,Core,Deal 2 damage to the enemy General and all enemy minions around them.
+20149,Bonechill Barrier,Spell,2.0,N/A,N/A,Vanar,Common,Core,Summon three joined 0/2 Vespyr Walls.  Minions that attack these walls are <b>Stunned</b>.
+512,Borean Bear,Vespyr,2.0,1.0,3.0,Vanar,Common,Core,"Whenever you summon a Vespyr minion, this minion gains +1 Attack."
+20137,Boundless Courage,Spell,2.0,N/A,N/A,Vanar,Epic,Core,Give a friendly minion +2 Attack. It takes no damage this turn.
+531,Bur,Battle Pet,2.0,3.0,3.0,Vanar,Rare,ShimZar,"When this minion survives damage, transform it into a different Battle Pet."
+11102,Carcynus,Minion,2.0,1.0,5.0,Neutral,Common,Unearthed,
+359,Carrion Collector,Minion,2.0,1.0,1.0,Abyssian,Epic,Mythron,<b>Dying Wish</b>: Lower the cost of all minions with <b>Dying Wish</b> in your deck and action bar by 1.
+20258,Cascading Rebirth,Spell,2.0,N/A,N/A,Magmar,Common,Ancients,Destroy a friendly minion to summon a random Magmar minion that costs 1 more.
+11098,Celebrant,Golem,2.0,1.0,4.0,Neutral,Rare,Ancients,<b>Opening Gambit</b>: Create a mana spring tile nearby.
+115,Chakri Avatar,Arcanyst,2.0,1.0,2.0,Songhai,Basic,Core,"Whenever you cast a spell, this minion gains +1/+1"
+20281,Channeled Breath,Spell,2.0,N/A,N/A,Lyonar,Common,Unearthed,Restore 2 Health to your General for each friendly minion.
+20271,Choking Tendrils,Spell,2.0,N/A,N/A,Abyssian,Common,Unearthed,Destroy an enemy minion on friendly <b>Shadow Creep</b>.
+20134,Chromatic Cold,Spell,2.0,N/A,N/A,Vanar,Basic,Core,"Dispel a space. If there is an enemy on that space, deal it 1 damage."
+540,Circulus,Arcanyst,2.0,1.0,1.0,Vanar,Epic,Ancients,"Whenever you cast a spell, add a 2/1 Illusion to your action bar."
+30016,Coldbiter,Artifact,2.0,N/A,N/A,Vanar,Legendary,Core,"At the end of your turn, your General deals 2 damage to each enemy minion around them."
+20228,Concealing Shroud,Spell,2.0,N/A,N/A,Vanar,Rare,Ancients,Your General takes no damage until your next turn.
+20166,Consuming Rebirth,Spell,2.0,N/A,N/A,Abyssian,Epic,Core,"Destroy a friendly minion. At the end of your turn, re-summon it on the same space and give it +1/+1."
+20074,Cosmic Flesh,Spell,2.0,N/A,N/A,Vetruvian,Basic,Core,Give a friendly minion +1/+3 and <b>Provoke</b>.
+20191,Crimson Coil,Spell,2.0,N/A,N/A,Songhai,Common,ShimZar,Deal 2 damage to a minion. Activate your Battle Pets.
+555,Cryoblade,Minion,2.0,2.0,3.0,Vanar,Common,Immortal,Deals double damage to <b>Stunned</b> enemies.
+11088,Cryptographer,Minion,2.0,2.0,2.0,Neutral,Common,Ancients,<b>Opening Gambit</b>: Refresh your Bloodbound Spell.
+550,Crystal Arbiter,Vespyr,2.0,1.0,4.0,Vanar,Common,Unearthed,This minion has +3 Attack on your opponent's turn.
+505,Crystal Cloaker,Vespyr,2.0,2.0,3.0,Vanar,Basic,Core,<b>Infiltrate</b>: Gain +2 Attack.
+506,Crystal Wisp,Minion,2.0,1.0,1.0,Vanar,Common,Core,<b>Dying Wish</b>: Permanently gain 1 mana crystal.
+20049,Daemonic Lure,Spell,2.0,N/A,N/A,Abyssian,Basic,Core,Deal 1 damage to an enemy minion and teleport it anywhere.
+316,Darkspine Elemental,Minion,2.0,1.0,4.0,Abyssian,Rare,Core,Double the damage dealt by friendly <b>Shadow Creep</b>.
+20332,Dauntless Advance,Spell,2.0,N/A,N/A,Lyonar,Common,Immortal,"Your General and nearby friendly minions gain, ""Takes no damage this turn."""
+20333,Deathmark,Spell,2.0,N/A,N/A,Abyssian,Rare,Immortal,"Deal 1 damage to an enemy minion. After it is attacked this turn, destroy it."
+20094,Deathstrike Seal,Spell,2.0,N/A,N/A,Songhai,Rare,Core,"Give a friendly minion, ""Destroy any minion damaged by this minion."""
+20369,Deep Impact,Spell,2.0,N/A,N/A,Magmar,Rare,Mythron,Deal damage to a minion to reduce its Health to 1.
+20113,Diretide Frenzy,Spell,2.0,N/A,N/A,Magmar,Common,Core,Give a friendly minion +1 Attack and <b>Frenzy</b>.
+238,Dreamshaper,Golem,2.0,2.0,2.0,Vetruvian,Common,Ancients,<b>Bond</b>: Draw two cards.
+211,Dunecaster,Dervish,2.0,2.0,1.0,Vetruvian,Common,Core,"<b>Opening Gambit</b>: Give +2/+2 to a friendly Dervish. If it is a Wind Dervish, it no longer disappears."
+241,Duskweaver,Dervish,2.0,1.0,1.0,Vetruvian,Common,Unearthed,<b>Dying Wish</b>: Put a random Scion's Wish spell into your action bar.
+258,Dustdrinker,Dervish,2.0,2.0,1.0,Vetruvian,Common,Mythron,<b>Intensify</b>: Deal 1 damage to the enemy General and this minion gains +1 Health.
+20204,Echoing Shriek,Spell,2.0,N/A,N/A,Abyssian,Epic,ShimZar,Transform ALL minions that cost 2 or less into 1/1 Wraithlings.
+20143,Eight Gates,Spell,2.0,N/A,N/A,Songhai,Legendary,Core,Spells you cast this turn that deal damage deal +2 damage.
+20312,Embryotic Insight,Spell,2.0,N/A,N/A,Magmar,Common,Immortal,"If you have an Egg, draw 2 cards."
+20225,Entropic Gaze,Spell,2.0,N/A,N/A,Magmar,Common,Ancients,Deal 2 damage to the enemy General. Both players draw a card.
+10020,Ephemeral Shroud,Minion,2.0,1.0,1.0,Neutral,Basic,Core,<b>Opening Gambit</b>: Dispel 1 nearby space.
+20336,Equality Constraint,Spell,2.0,N/A,N/A,Vetruvian,Common,Immortal,ANY minion's Health becomes equal to its Attack.
+20231,Ethereal Blades,Spell,2.0,N/A,N/A,Songhai,Common,Ancients,Give a friendly minion AND your General +2 Attack this turn.
+214,Ethereal Obelysk,Structure,2.0,0.0,6.0,Vetruvian,Basic,Core,<b>Summon Dervish</b>
+25,Fiz,Battle Pet,2.0,3.0,3.0,Lyonar,Rare,ShimZar,<b>Opening Gambit</b>: Restore 2 Health to anything.
+19051,Flameblood Warlock,Minion,2.0,3.0,1.0,Neutral,Rare,Core,<b>Opening Gambit</b>: Deal 3 damage to BOTH Generals.
+20152,Fountain of Youth,Spell,2.0,N/A,N/A,Vetruvian,Rare,Core,Fully heal all friendly minions.
+20237,Frigid Corona,Spell,2.0,N/A,N/A,Vanar,Common,Ancients,<b>Stun</b> an enemy. Draw a card.
+20135,Frostfire,Spell,2.0,N/A,N/A,Vanar,Basic,Core,"Give a friendly minion +3 Attack. If it is Vespyr, also give it +3 Health."
+11009,Ghost Lynx,Minion,2.0,2.0,1.0,Neutral,Common,Core,<b>Opening Gambit</b>: Teleport a nearby minion to a random space.
+363,Gibbet,Minion,2.0,1.0,2.0,Abyssian,Rare,Mythron,"Whenever this attacks an enemy minion, destroy that minion and summon a Gibbet on that space."
+317,Gloomchaser,Minion,2.0,2.0,2.0,Abyssian,Basic,Core,<b>Opening Gambit</b>: Summon a 1/1 Wraithling in a random nearby space.
+30026,Gold Vitriol,Artifact,2.0,N/A,N/A,Lyonar,Rare,Ancients,"Whenever anything is healed, deal 2 damage to a random enemy."
+19038,Golem Metallurgist,Golem,2.0,2.0,3.0,Neutral,Rare,Core,The first Golem you summon each turn costs 1 less.
+326,Gor,Battle Pet,2.0,1.0,1.0,Abyssian,Common,ShimZar,<b>Dying Wish</b>: Re-summon this minion in a random corner.
+20147,Gravity Well,Spell,2.0,N/A,N/A,Vanar,Legendary,Core,Summon four joined 0/1 Walls with <b>Provoke</b>.
+420,Gro,Battle Pet,2.0,2.0,4.0,Magmar,Rare,ShimZar,<b>Grow</b>: +1/+1
+20160,Hailstone Prison,Spell,2.0,N/A,N/A,Vanar,Common,Core,Return ANY minion to its action bar.
+10981,Healing Mystic,Minion,2.0,2.0,3.0,Neutral,Basic,Core,<b>Opening Gambit</b>: Restore 2 Health to anything.
+517,Hearth-Sister,Minion,2.0,3.0,2.0,Vanar,Common,Core,<b>Opening Gambit</b>: Switch positions with ANY other minion.
+530,Icy,Battle Pet,2.0,2.0,3.0,Vanar,Common,ShimZar,<b>Opening Gambit</b>: <b>Stun</b> a nearby enemy.
+20200,Inkhorn Gaze,Spell,2.0,N/A,N/A,Abyssian,Common,ShimZar,"Deal 2 damage to a minion. If it dies this turn, put a random Battle Pet into your action bar."
+20358,Invigoration,Spell,2.0,N/A,N/A,Magmar,Common,Mythron,<b>Intensify</b>: Restore 3 Health to your General.
+30013,Iridium Scale,Artifact,2.0,N/A,N/A,Magmar,Epic,Core,Your General gains <b>Frenzy</b>.
+30050,Iris Barrier,Artifact,2.0,N/A,N/A,Vetruvian,Rare,Immortal,Your General takes no damage during your turn.
+11014,Jaxi,Minion,2.0,1.0,1.0,Neutral,Common,Core,<b>Dying Wish</b>: Summon a 1/1 Ranged Mini-Jax in a random corner.
+110,Kaido Assassin,Minion,2.0,2.0,3.0,Songhai,Basic,Core,<b>Backstab</b>: (1).
+409,Kujata,Minion,2.0,2.0,2.0,Magmar,Epic,Core,Your minions cost 1 less to summon and take 1 damage when summoned from your action bar.
+20046,Lasting Judgement,Spell,2.0,N/A,N/A,Lyonar,Rare,Core,"Give ANY minion +3 Attack, but -3 Health."
+243,Lavastorm Obelysk,Structure,2.0,0.0,4.0,Vetruvian,Rare,Unearthed,"<b>Summon Dervish</b><br/>At the start of your turn, deal 6 damage to all enemy minions in this row."
+15,Lightchaser,Minion,2.0,3.0,2.0,Lyonar,Common,Core,"Whenever anything is healed, this minion gains +1/+1."
+20211,Lightning Blitz,Spell,2.0,N/A,N/A,Vanar,Epic,ShimZar,Give all friendly minions +1/+1 and randomly teleport them to your opponent's starting side of the battlefield.
+11124,Lost Artificer,Minion,2.0,2.0,3.0,Neutral,Rare,Immortal,The first artifact you equip each turn costs 1 less.
+20190,Lucent Beam,Spell,2.0,N/A,N/A,Lyonar,Common,ShimZar,"Deal 2 damage to an enemy. If anything was healed this turn, deal 4 damage instead."
+20199,Lurking Fear,Spell,2.0,N/A,N/A,Abyssian,Epic,ShimZar,Lower the cost of all minions with <b>Dying Wish</b> in your action bar and deck by 1.
+10302,Manaforger,Arcanyst,2.0,1.0,3.0,Neutral,Rare,Core,The first non-Bloodbound spell you cast each turn costs 1 less.
+20366,Marching Orders,Spell,2.0,N/A,N/A,Lyonar,Rare,Mythron,"Give friendly minions directly in front of and behind your General +2/+2.  If they have <b>Zeal</b>, they cannot be targeted by enemy spells."
+20140,Mark of Solitude,Spell,2.0,N/A,N/A,Vanar,Rare,Core,One minion becomes 5/5. It can no longer attack Generals.
+30007,Mask of Shadows,Artifact,2.0,N/A,N/A,Songhai,Legendary,Core,Your General gains <b>Backstab</b> (4).
+20341,Mass Flight,Spell,2.0,N/A,N/A,Songhai,Rare,Immortal,Give all friendly minions Flying this turn.
+10979,Maw,Minion,2.0,2.0,2.0,Neutral,Common,Core,<b>Opening Gambit</b>: Deal 2 damage to a nearby enemy minion.
+20386,Metalmeld,Spell,2.0,N/A,N/A,Vetruvian,Rare,Mythron,Equip a friendly artifact that was destroyed this game.
+11123,Metaltooth,Mech,2.0,2.0,2.0,Neutral,Common,Immortal,"If you have another Mech minion, this minion has <b>Rush</b>."
+20194,Mirror Meld,Spell,2.0,N/A,N/A,Songhai,Rare,ShimZar,Summon a copy of a friendly minion that costs 2 or less nearby.
+20382,Mitotic Induction,Spell,2.0,N/A,N/A,Magmar,Epic,Mythron,Summon an Egg of the minion most recently summoned from your action bar.
+20125,Natural Selection,Spell,2.0,N/A,N/A,Magmar,Basic,Core,Destroy ANY minion with the lowest Attack or tied for the lowest Attack.
+20350,Neurolink,Spell,2.0,N/A,N/A,Vetruvian,Epic,Immortal,Your General gains all keywords of friendly minions this turn.
+351,Nightmare Operant,Mech,2.0,3.0,2.0,Abyssian,Rare,Immortal,<b>Dying Wish</b>: Shuffle a MECHAZ0R into your deck.
+337,Nocturne,Arcanyst,2.0,2.0,2.0,Abyssian,Epic,Ancients,"Whenever you make Shadow Creep or a Wraithling, instead make both."
+30054,Obdurator,Artifact,2.0,N/A,N/A,Vetruvian,Epic,Mythron,"Your General gains +1 Attack.<br/>At the start of your turn, repair all of your artifacts by 1 durability."
+327,Ooz,Battle Pet,2.0,3.0,3.0,Abyssian,Rare,ShimZar,"Whenever this minion takes damage, turn a space occupied by an enemy into <b>Shadow Creep</b>."
+256,Orbrider,Minion,2.0,2.0,2.0,Vetruvian,Common,Mythron,<b>Opening Gambit</b>: Return a nearby friendly minion to your action bar.
+228,Pax,Battle Pet,2.0,2.0,1.0,Vetruvian,Rare,ShimZar,<b>Dying Wish</b>: Summon two 2/2 Iron Dervishes nearby.
+406,Phalanxar,Minion,2.0,6.0,1.0,Magmar,Basic,Core,
+339,Phantasm,Minion,2.0,3.0,2.0,Abyssian,Common,Unearthed,"Whenever your opponent summons a minion, give a minion in your action bar +1 Attack."
+20081,Phoenix Fire,Spell,2.0,N/A,N/A,Songhai,Basic,Core,Deal 3 damage to anything.
+19040,Piercing Mantis,Minion,2.0,2.0,2.0,Neutral,Basic,Core,<b>Frenzy</b>
+20268,Primal Ballast,Spell,2.0,N/A,N/A,Magmar,Rare,Unearthed,"Dispel a space. If there is a minion on that space, give it +2/+2."
+19037,Primus Fist,Minion,2.0,2.0,3.0,Neutral,Common,Core,<b>Opening Gambit</b>: Give a nearby friendly minion +2 Attack this turn.
+20235,Prism Barrier,Spell,2.0,N/A,N/A,Lyonar,Rare,Ancients,Give a friendly minion <b>Forcefield</b>.
+554,Protosensor,Minion,2.0,2.0,2.0,Vanar,Common,Immortal,<b>Build</b>: (1).<br/><b>Airdrop</b>
+20243,Punish,Spell,2.0,N/A,N/A,Abyssian,Rare,Ancients,Destroy a damaged minion.
+37,Pureblade Enforcer,Minion,2.0,1.0,3.0,Lyonar,Common,Unearthed,"Whenever your opponent casts a spell, this minion gains +1/+1."
+213,Pyromancer,Minion,2.0,2.0,1.0,Vetruvian,Basic,Core,<b>Blast</b>
+430,Rancour,Minion,2.0,1.0,3.0,Magmar,Rare,Ancients,"Whenever your General takes damage, this minion gains that much attack. "
+20099,Rasha's Curse,Spell,2.0,N/A,N/A,Vetruvian,Epic,Core,Destroy a random artifact on the enemy General. Summon a Wind Dervish with <b>Rush</b> near them.
+20265,Reassemble,Spell,2.0,N/A,N/A,Vetruvian,Common,Unearthed,Return a friendly Obelysk to your action bar and reduce its cost to 0. Draw a card.
+11135,Recombobulus,Minion,2.0,2.0,3.0,Neutral,Common,Immortal,<b>Opening Gambit</b>: Teleport ANY minion one space randomly.
+11126,Replicant,Mech,2.0,2.0,2.0,Neutral,Common,Immortal,<b>Opening Gambit</b>: Draw another Replicant from your deck.
+11137,Rescue-RX,Minion,2.0,2.0,4.0,Neutral,Common,Immortal,"<b>Build</b>: (2).<br/>When this minion is built, restore 5 Health to your General."
+30056,Resonance Scythe,Artifact,2.0,N/A,N/A,Vanar,Epic,Mythron,Your General has +1 Attack.<br/>Reactivate your General whenever they destroy a <b>Stunned</b> enemy.
+19026,Rock Pulverizer,Minion,2.0,1.0,4.0,Neutral,Basic,Core,<b>Provoke</b>
+10957,Rust Crawler,Minion,2.0,2.0,3.0,Neutral,Common,Core,<b>Opening Gambit</b>: Destroy a random artifact on the enemy General.
+20080,Saberspine Seal,Spell,2.0,N/A,N/A,Songhai,Basic,Core,Give a minion or General +3 Attack this turn.
+20093,Sand Trap,Spell,2.0,N/A,N/A,Vetruvian,Common,Core,Choose an enemy minion.  It can no longer move.
+20096,Scion's Second Wish,Spell,2.0,N/A,N/A,Vetruvian,Basic,Core,Give a friendly minion +2/+2. It takes no damage from Generals.
+140,Scroll Bandit,Arcanyst,2.0,1.0,3.0,Songhai,Epic,Unearthed,"<b>Backstab</b>: (1).<br/>Whenever this backstabs, steal a spell from your opponent's deck."
+20365,Second Self,Spell,2.0,N/A,N/A,Songhai,Rare,Mythron,Put an EXACT copy of a friendly minion into your action bar.
+446,Seismoid,Mech,2.0,3.0,1.0,Magmar,Rare,Immortal,"Whenever you summon a Mech minion from your action bar, both players draw a card."
+20273,Shadowstalk,Spell,2.0,N/A,N/A,Abyssian,Rare,Unearthed,Summon a Wraithling behind each enemy.
+20337,Shatter,Spell,2.0,N/A,N/A,Vanar,Common,Immortal,Destroy a <b>Stunned</b> enemy minion.
+11046,Shiro Puppydragon,Minion,2.0,1.0,4.0,Neutral,Common,Core,"At the end of your turn, give each nearby friendly minion +1 Attack."
+545,Shivers,Vespyr,2.0,2.0,1.0,Vanar,Epic,Unearthed,"<b>Flying</b><br/><b>Infiltrate</b>: When this minion attacks, permanently gain 1 mana crystal."
+11109,Sinister Silhouette,Minion,2.0,1.0,2.0,Neutral,Rare,Unearthed,Cannot be attacked.
+19048,Skyrock Golem,Golem,2.0,3.0,2.0,Neutral,Basic,Core,
+11066,Sol,Battle Pet,2.0,1.0,1.0,Neutral,Rare,ShimZar,Opening Gambit: Activate a friendly Battle Pet.
+20071,Soulshatter Pact,Spell,2.0,N/A,N/A,Abyssian,Basic,Core,Give all friendly minions +2 Attack this turn.
+30014,Spectral Blade,Artifact,2.0,N/A,N/A,Abyssian,Epic,Core,"Your General gains +2 Attack.<br/>Whenever your General destroys an enemy, restore 2 Health to your General."
+30006,Staff Of Y'Kir,Artifact,2.0,N/A,N/A,Vetruvian,Basic,Core,Your General gains +2 Attack.
+20064,Sun Bloom,Spell,2.0,N/A,N/A,Lyonar,Common,Core,Dispel a 2x2 area.
+27,Sun Wisp,Minion,2.0,2.0,1.0,Lyonar,Common,ShimZar,<b>Opening Gambit</b>: Draw a card.
+30048,Sunbond Pavise,Artifact,2.0,N/A,N/A,Lyonar,Rare,Immortal,Friendly minions directly above and below your General gain +2 Attack and <b>Provoke</b>.
+10,Sunstone Templar,Minion,2.0,1.0,4.0,Lyonar,Epic,Core,"Whenever this attacks or counterattacks, it dispels that enemy"
+145,Suzumebachi,Minion,2.0,1.0,3.0,Songhai,Common,Immortal,"Whenever you cast a spell, this minion gains +1 Attack until your next turn."
+20044,Tempest,Spell,2.0,N/A,N/A,Lyonar,Basic,Core,Deal 2 damage to everything.
+567,Thicket Augur,Minion,2.0,1.0,1.0,Vanar,Common,Mythron,<b>Intensify</b>: Summon 1 Treant with <b>Provoke</b> nearby.
+20114,Tremor,Spell,2.0,N/A,N/A,Magmar,Common,Core,<b>Stun</b> enemy minions in a 2x2 area.
+121,Tusk Boar,Minion,2.0,2.0,3.0,Songhai,Legendary,Core,<b>Rush</b><br/>Return this minion to your action bar at the beginning of your turn.
+20288,Vaath's Brutality,Spell,2.0,N/A,N/A,Magmar,Common,Unearthed,<b>Stun</b> an enemy minion. Give your General +1 Attack.
+20285,Vale Ascension,Spell,2.0,N/A,N/A,Lyonar,Epic,Unearthed,Summon a friendly non-token minion destroyed this game onto friendly <b>Hallowed Ground</b>.
+10021,Vale Hunter,Minion,2.0,1.0,2.0,Neutral,Basic,Core,<b>Ranged</b>
+20047,War Surge,Spell,2.0,N/A,N/A,Lyonar,Basic,Core,Give all friendly minions +1/+1.
+34,Warblade,Golem,2.0,1.0,4.0,Lyonar,Common,Ancients,<b>Bond</b>: Other friendly minions gain +1/+1.
+438,Warpup,Minion,2.0,1.0,1.0,Magmar,Rare,Unearthed,"<b>Forcefield</b>, <b>Frenzy</b>"
+20196,Whisper of the Sands,Spell,2.0,N/A,N/A,Vetruvian,Common,ShimZar,Summon a Wind Dervish nearby each friendly Obelysk. Draw a card.
+229,Wind Slicer,Minion,2.0,2.0,3.0,Vetruvian,Rare,ShimZar,<b>Opening Gambit</b>: Lower the cost of all Structure minions in your action bar by 1.
+9,Windblade Adept,Minion,2.0,2.0,3.0,Lyonar,Basic,Core,<b>Zeal</b>: Gains +1 Attack
+19003,Wings of MECHAZ0R,Mech,2.0,1.0,4.0,Neutral,Common,Core,<b>Airdrop</b><br/><b>Opening Gambit</b>: Progresses MECHAZ0R build by +20%.
+11075,Wood-Wen,Minion,2.0,2.0,2.0,Neutral,Common,Core,<b>Provoke</b><br/><b>Opening Gambit</b>: Give a nearby friendly minion <b>Provoke</b>.
+125,Xho,Battle Pet,2.0,2.0,3.0,Songhai,Rare,ShimZar,<b>Dying Wish</b>: Put a random Songhai spell into your action bar. It costs 1 less.
+20367,Yielding Depths,Spell,2.0,N/A,N/A,Abyssian,Rare,Mythron,"If you have three or more <b>Shadow Creep</b>, draw 2 cards."
+412,Young Silithar,Minion,2.0,2.0,3.0,Magmar,Common,Core,<b>Rebirth</b>
+11061,Z0r,Battle Pet,2.0,2.0,1.0,Neutral,Epic,ShimZar,<b>Dying Wish</b>: Put a random MECH minion into your action bar.
+30055,Zoetic Charm,Artifact,2.0,N/A,N/A,Magmar,Epic,Mythron,Your General has +1 Attack.<br/>Your Eggs have <b>Forcefield</b>.
+20348,Abhorrent Unbirth,Spell,3.0,N/A,N/A,Abyssian,Epic,Immortal,"Destroy all friendly minions to summon a 1/1 Abomination that gains their Attack, Health, and keywords."
+11039,Abjudicator,Arcanyst,3.0,3.0,1.0,Neutral,Rare,Core,<b>Opening Gambit</b>: Lower the cost of all spells in your action bar by 1.
+11142,Aer Pridebeak,Minion,3.0,3.0,4.0,Neutral,Common,Mythron,"Whenever your opponent casts a spell, restore 1 Health to your General."
+20188,Afterblaze,Spell,3.0,N/A,N/A,Lyonar,Common,ShimZar,"Give a friendly minion +2/+4. If that minion has <b>Zeal</b>, draw a card."
+10304,Alcuin Loremaster,Arcanyst,3.0,3.0,1.0,Neutral,Epic,Core,<b>Opening Gambit</b>: Put a copy of the most recently cast spell into your action bar.
+11138,Architect-T2K5,Minion,3.0,1.0,4.0,Neutral,Epic,Immortal,"<b>Build</b>: (1).<br/>Whenever this or another friendly minion is built, draw a card."
+12,Arclyte Sentinel,Minion,3.0,2.0,4.0,Lyonar,Rare,Core,"<b>Opening Gambit</b>: Give ANY nearby minion +2 Attack, but -2 Health"
+20195,Astral Flood,Spell,3.0,N/A,N/A,Vetruvian,Common,ShimZar,Put 3 random Battle Pets into your action bar.
+20076,Astral Phasing,Spell,3.0,N/A,N/A,Vetruvian,Common,Core,Give a friendly minion +5 Health and <b>Flying</b>.
+263,Atom Klinger,Minion,3.0,1.0,5.0,Vetruvian,Rare,Mythron,"Whenever you equip an artifact, this minion gains +Attack equal to the artifact's cost."
+40,Auroara,Minion,3.0,1.0,5.0,Lyonar,Epic,Unearthed,"Whenever you summon a minion with 2 or less Attack, this minion gains +2 Attack."
+20327,Bamboozle,Spell,3.0,N/A,N/A,Songhai,Epic,Immortal,"Transform a nearby enemy minion into a 0/2 Panddo. If it is already a Panddo, instead destroy it and draw to fill your action bar."
+30027,Bangle of Blinding Strike,Artifact,3.0,N/A,N/A,Songhai,Rare,Ancients,Your General has <b>Celerity</b>.
+11038,Bastion,Structure,3.0,0.0,5.0,Neutral,Epic,Core,"At the end of your turn, give all friendly minions +1 health."
+130,Battle Panddo,Minion,3.0,2.0,4.0,Songhai,Epic,ShimZar,"Whenever this minion takes damage, deal 1 damage to all enemies."
+20390,Bellow,Spell,3.0,N/A,N/A,Magmar,Common,Mythron,Give a friendly minion +3 Attack.<br/><b>Stun</b> enemy minions around it.
+10013,Blaze Hound,Minion,3.0,4.0,3.0,Neutral,Common,Core,<b>Opening Gambit</b>: Both players draw a card.
+20148,Blazing Spines,Spell,3.0,N/A,N/A,Vanar,Rare,Core,Summon two joined 3/3 Walls that can attack.
+328,Blood Baronette,Minion,3.0,3.0,3.0,Abyssian,Rare,ShimZar,Opening Gambit: Double a nearby Wraithling's Attack and Health.
+20257,Blood Echoes,Spell,3.0,N/A,N/A,Abyssian,Common,Ancients,Destroy all friendly minions and resummon them on random spaces at end of turn.
+11125,Bloodbound Mentor,Minion,3.0,3.0,4.0,Neutral,Epic,Immortal,<b>Blood Surge</b>: Put a copy of your Bloodbound Spell into your action bar.
+10205,Bloodshard Golem,Golem,3.0,4.0,3.0,Neutral,Basic,Core,
+361,Bonecrusher,Minion,3.0,0.0,3.0,Abyssian,Common,Mythron,<b>Intensify</b>: This minion gains +5 Attack.
+344,Bound Tormentor,Minion,3.0,2.0,3.0,Abyssian,Common,Unearthed,<b>Sentinel</b>: Minion summoned.<br/>Put a copy of the minion that transformed this into your action bar. It costs 2 less.
+19004,Cannon of MECHAZ0R,Mech,3.0,2.0,2.0,Neutral,Rare,Core,<b>Ranged</b><br/><b>Opening Gambit</b>: Progresses MECHAZ0R build by +20%.
+439,Catalyst Quillbeast,Minion,3.0,3.0,4.0,Magmar,Common,Unearthed,"Whenever you cast a spell, deal 1 damage to ALL minions."
+117,Celestial Phantom,Minion,3.0,1.0,5.0,Songhai,Rare,Core,Destroy any minion damaged by this minion.
+10962,Chaos Elemental,Minion,3.0,4.0,4.0,Neutral,Epic,Core,"Whenever this minion takes damage, it randomly teleports."
+362,Chittering Tiller,Minion,3.0,4.0,3.0,Abyssian,Common,Mythron,<b>Frenzy</b><br/><b>Opening Gambit</b>: Teleport the enemy General one space forward.
+19030,Crimson Oculus,Minion,3.0,2.0,3.0,Neutral,Rare,Core,"Whenever opponent summons a minion, this minion gains +1/+1"
+10953,Crossbones,Minion,3.0,3.0,3.0,Neutral,Rare,Core,<b>Opening Gambit</b>: Destroy an enemy minion with Ranged.
+20371,Cryonic Potential,Spell,3.0,N/A,N/A,Vanar,Common,Mythron,Give an exhausted friendly minion +6/+6.
+20347,Crystalline Reinforcement,Spell,3.0,N/A,N/A,Vanar,Epic,Immortal,Double the Attack and Health buffs of friendly minions.
+30009,Cyclone Mask,Artifact,3.0,N/A,N/A,Songhai,Epic,Core,Your General gains <b>Ranged</b>.
+11079,Day Watcher,Minion,3.0,3.0,3.0,Neutral,Common,Core,"Whenever a friendly minion attacks, restore 1 Health to your General."
+20133,Deathfire Crescendo,Spell,3.0,N/A,N/A,Abyssian,Legendary,Core,"Give a friendly minion, ""<b>Deathwatch</b>: Gains +2/+2."""
+50,Decorated Enlistee,Minion,3.0,1.0,5.0,Lyonar,Common,Immortal,"While at full Health, this minion has +3 Attack."
+565,Disciple of Yggdra,Minion,3.0,2.0,3.0,Vanar,Legendary,Mythron,"When an enemy is <b>Stunned</b>, transform this minion into Yggdra's Voracity."
+20068,Divine Bond,Spell,3.0,N/A,N/A,Lyonar,Basic,Core,Give a minion +Attack equal to its Health.
+20242,Divine Spark,Spell,3.0,N/A,N/A,Vetruvian,Common,Ancients,Draw two cards.
+548,Drake Dowager,Minion,3.0,1.0,3.0,Vanar,Rare,Unearthed,"<b>Sentinel</b>: General attacks.<br/><b>Ranged</b><br/>Whenever this attacks, summon a 4/4 Flying Drake nearby."
+151,Dusk Rigger,Mech,3.0,2.0,3.0,Songhai,Rare,Immortal,"<b>Backstab</b>: (2).<br/>Whenever this backstabs, put a MECHAZ0R Progression into your action bar."
+402,Earth Walker,Minion,3.0,3.0,3.0,Magmar,Basic,Core,<b>Grow</b>: +1/+1
+20346,Effulgent Infusion,Spell,3.0,N/A,N/A,Magmar,Common,Immortal,Give a friendly minion +Attack equal to your General's Attack.
+11076,Elkowl,Minion,3.0,2.0,3.0,Neutral,Rare,Core,<b>Opening Gambit</b>: Gain two random keywords.
+20274,Empyreal Congregation,Spell,3.0,N/A,N/A,Lyonar,Epic,Unearthed,Give friendly minions in a 2x2 area +2/+2.
+20291,Endure the Beastlands,Spell,3.0,N/A,N/A,Magmar,Epic,Unearthed,Turn a 2x2 area into <b>Primal Flourish</b>.
+448,Erratic Raptyr,Minion,3.0,5.0,5.0,Magmar,Common,Immortal,"<b>Rebirth</b><br/>After this minion attacks or counterattacks, turn it into an Egg."
+226,Falcius,Minion,3.0,3.0,3.0,Vetruvian,Common,ShimZar,<b>Opening Gambit</b>: Your General gains +2 Attack and takes no damage this turn.
+245,Fate Watcher,Minion,3.0,2.0,3.0,Vetruvian,Common,Unearthed,"Whenever your opponent draws a card, this minion gains a random keyword ability."
+20317,Fealty,Spell,3.0,N/A,N/A,Lyonar,Rare,Immortal,Draw a card for each friendly minion nearby your General.
+503,Fenrir Warmaster,Minion,3.0,3.0,2.0,Vanar,Basic,Core,<b>Dying Wish</b>: Summon a 3/2 Ghost Wolf on this space.
+215,Fireblaze Obelysk,Structure,3.0,0.0,6.0,Vetruvian,Rare,Core,<b>Summon Dervish</b><br/>Your dervishes have +1 Attack.
+20283,Flicker,Spell,3.0,N/A,N/A,Songhai,Epic,Unearthed,Teleport your General to a space behind an enemy.
+547,Freeblade,Minion,3.0,3.0,5.0,Vanar,Common,Unearthed,<b>Sentinel</b>: Minion summoned.<br/>This switches positions with the minion that transformed it.
+11090,Ghoulie,Minion,3.0,3.0,4.0,Neutral,Common,Ancients,This minion is from every tribe.
+519,Glacial Elemental,Vespyr,3.0,2.0,3.0,Vanar,Rare,Core,"Whenever you summon a Vespyr minion, deal 2 damage to a random enemy minion."
+20266,Glacial Fissure,Spell,3.0,N/A,N/A,Vanar,Epic,Unearthed,Deal 8 damage to EVERYTHING in the center column.
+11056,Golden Mantella,Minion,3.0,4.0,2.0,Neutral,Common,ShimZar,<b>Opening Gambit</b>: Put a random Battle Pet into your action bar.
+19039,Golem Vanquisher,Golem,3.0,2.0,4.0,Neutral,Legendary,Core,<b>Provoke</b><br/>Your other Golem minions have <b>Provoke</b>.
+112,Gore Horn,Minion,3.0,3.0,3.0,Songhai,Rare,Core,"<b>Backstab</b>: (2)<br/>After this minion attacks, it gains +1/+1."
+54,Gryphon Fledgling,Minion,3.0,5.0,3.0,Lyonar,Rare,Mythron,<b>Zeal</b>: <b>Flying</b>
+20340,Horrific Visage,Spell,3.0,N/A,N/A,Abyssian,Common,Immortal,Give all enemy minions -3 Attack until your next turn.
+334,Horror Burster,Minion,3.0,4.0,1.0,Abyssian,Rare,Ancients,<b>Dying Wish</b>: Transform a random friendly minion into a 6/6 Horror.
+142,Hundred-Handed Rakushi,Minion,3.0,3.0,4.0,Songhai,Common,Unearthed,<b>Sentinel</b>: Minion summoned.<br/>Deal 2 damage to the minion that transformed this.
+11052,Hydrax,Minion,3.0,3.0,3.0,Neutral,Legendary,ShimZar,"Whenever a friendly Battle Pet dies, draw a card."
+533,Iceblade Dryad,Vespyr,3.0,3.0,3.0,Vanar,Epic,ShimZar,<b>Opening Gambit</b>: Give a friendly Vespyr minion +1/+1 and <b>Flying</b>.
+218,Imperial Mechanyst,Minion,3.0,2.0,5.0,Vetruvian,Rare,Core,<b>Opening Gambit</b>: Repair all of your artifacts to full durability.
+20321,Infest,Spell,3.0,N/A,N/A,Abyssian,Legendary,Immortal,"Choose an enemy minion. When it dies, give this effect to all nearby enemy minions and deal 2 damage to the enemy General."
+20153,Inner Oasis,Spell,3.0,N/A,N/A,Vetruvian,Rare,Core,Give all friendly minions +3 Health. Draw a card.
+11051,Ion,Battle Pet,3.0,2.0,3.0,Neutral,Rare,ShimZar,<b>Ranged</b><br/>Deals double damage to Generals.
+114,Jade Monk,Minion,3.0,4.0,3.0,Songhai,Common,Core,"Whenever this minion takes damage, deal 1 damage to a random enemy minion."
+156,Kaido Expert,Minion,3.0,2.0,2.0,Songhai,Rare,Mythron,"<b>Backstab</b>: (1).<br/>Whenever this minion backstabs, summon a minion with <b>Backstab</b> that costs 2 or less from your deck nearby."
+128,Ki Beholder,Minion,3.0,3.0,2.0,Songhai,Rare,ShimZar,<b>Ranged</b><br/><b>Opening Gambit</b>: An enemy minion cannot move next turn.
+20102,Killing Edge,Spell,3.0,N/A,N/A,Songhai,Basic,Core,"Give a friendly minion +4/+2. If that minion has <b>Backstab</b>, draw a card at end of turn."
+539,Kindred Hunter,Arcanyst,3.0,3.0,3.0,Vanar,Common,Ancients,<b>Bond</b>: Summon a 3/3 Night Howler on a random nearby space.
+20162,Kinetic Equilibrium,Spell,3.0,N/A,N/A,Magmar,Rare,Core,Deal 2 damage to ALL minions in a 3x3 area. Friendly minions in the area also gain +2 Attack.
+11103,Komodo Hunter,Minion,3.0,5.0,6.0,Neutral,Common,Unearthed,<b>Opening Gambit</b>: Your opponent summons two Komodo Chargers nearby their General.
+455,Krater,Minion,3.0,2.0,4.0,Magmar,Common,Mythron,<b>Opening Gambit</b>: Deal 1 damage to everything (including itself).
+10987,Lady Locke,Minion,3.0,2.0,2.0,Neutral,Legendary,Core,<b>Provoke</b><br/><b>Opening Gambit</b>: Other minions you summon this turn gain +1/+1 and gain <b>Provoke</b>.
+122,Lantern Fox,Minion,3.0,2.0,3.0,Songhai,Epic,Core,"Whenever this minion takes damage, put a Phoenix Fire into your action bar."
+53,Legion,Minion,3.0,3.0,2.0,Lyonar,Common,Mythron,<b>Intensify</b>: Put 1 Crestfallen into your action bar. Shuffle a copy of this minion into your deck.
+20249,Life Coil,Spell,3.0,N/A,N/A,Lyonar,Common,Ancients,Double a minion's Health.
+20090,Martyrdom,Spell,3.0,N/A,N/A,Lyonar,Basic,Core,Destroy ANY minion. Restore that minion's Health to its General.
+144,Mind-Cage Oni,Minion,3.0,4.0,3.0,Songhai,Rare,Unearthed,"<b>Sentinel</b>: Spell cast.<br/>Whenever your opponent casts a spell, put a copy of that spell into your action bar."
+30034,Mindlathe,Artifact,3.0,N/A,N/A,Abyssian,Legendary,Unearthed,"After your General damages a minion, reactivate and take control of it until the end of your turn."
+19047,Mirkblood Devourer,Minion,3.0,2.0,4.0,Neutral,Legendary,Core,Friendly minions summoned nearby this minion gain +1/+1.
+143,Mizuchi,Minion,3.0,2.0,5.0,Songhai,Rare,Unearthed,<b>Sentinel</b>: General attacks.<br/><b>Flying</b><br/><b>Backstab</b>: (2).
+11008,Mogwai,Minion,3.0,2.0,3.0,Neutral,Epic,Core,"After this moves, draw a card."
+423,Moloki Huntress,Minion,3.0,1.0,2.0,Magmar,Epic,ShimZar,<b>Grow</b>: +1/+1<br/>Friendly minions grow at the start of BOTH player's turns.
+549,Moonlit Basilysk,Minion,3.0,2.0,2.0,Vanar,Rare,Unearthed,"<b>Sentinel</b>: Spell cast.<br/>Whenever your opponent casts a spell, this minion gains +3/+3."
+20374,Munch,Spell,3.0,N/A,N/A,Abyssian,Rare,Mythron,Steal Health from an enemy minion for each friendly Shadow Creep (but not more than its Health).
+536,Myriad,Vespyr,3.0,3.0,3.0,Vanar,Common,Ancients,<b>Blood Surge</b>: Summon a random Wall nearby.
+319,Nightsorrow Assassin,Minion,3.0,2.0,1.0,Abyssian,Common,Core,<b>Opening Gambit</b>: Destroy a nearby enemy minion with 2 or less attack.
+20087,Onyx Bear Seal,Spell,3.0,N/A,N/A,Songhai,Epic,Core,Transform an enemy minion into a 0/2 Panddo that cannot be attacked.
+212,Orb Weaver,Dervish,3.0,2.0,2.0,Vetruvian,Common,Core,<b>Opening Gambit</b>: Summon a copy of this minion on a nearby space.
+11145,Orbo the Ostentatious,Minion,3.0,3.0,4.0,Neutral,Legendary,Mythron,<b>Opening Gambit</b>: Transform the cards in your action bar into random prismatic legendary cards.
+158,Orizuru,Minion,3.0,3.0,4.0,Songhai,Common,Mythron,<b>Flying</b>
+454,Oropsisaur,Minion,3.0,2.0,5.0,Magmar,Legendary,Mythron,"<b>Grow</b>: +1/+1.<br/>Whenever another friendly minion with <b>Grow</b> survives damage, that minion grows."
+20385,Pandatentiary,Spell,3.0,N/A,N/A,Songhai,Epic,Mythron,Surround the enemy General with friendly Panddo that disappear at the start of your next turn.
+149,Penumbraxx,Minion,3.0,3.0,1.0,Songhai,Legendary,Immortal,"<b>Build</b>: (2).<br/><b>Backstab</b>: (2).<br/>Whenever this backstabs, transform it into a building with <b>Build</b> (1)."
+20394,Permafrost,Spell,3.0,N/A,N/A,Vanar,Epic,Mythron,<b>Stun</b> an enemy minion.<br/><b><b>Stun</b>ned</b> enemy minions <b>Stun</b> a nearby enemy.
+221,Portal Guardian,Minion,3.0,0.0,6.0,Vetruvian,Epic,Core,"<b>Frenzy</b><br/>Whenever you summon a minion, this minion gains +1 Attack."
+410,Primordial Gazer,Minion,3.0,2.0,2.0,Magmar,Basic,Core,<b>Opening Gambit</b>: Give a nearby friendly minion +2/+2.
+10303,Prismatic Illusionist,Arcanyst,3.0,2.0,3.0,Neutral,Rare,Core,"Whenever you cast a spell, summon a 2/1 Illusion on a random nearby space."
+11148,Prongbok,Minion,3.0,2.0,5.0,Neutral,Common,Mythron,May move an additional space.
+20197,Psychic Conduit,Spell,3.0,N/A,N/A,Vetruvian,Rare,ShimZar,Reactivate and take control of an enemy minion with 2 or less Attack until end of turn.
+19033,Putrid Dreadflayer,Minion,3.0,2.0,4.0,Neutral,Basic,Core,<b>Flying</b>
+28,Radiant Dragoon,Minion,3.0,3.0,4.0,Lyonar,Rare,ShimZar,"At the end of your turn, give a friendly minion +1 Health."
+432,Ragebinder,Golem,3.0,3.0,4.0,Magmar,Common,Ancients,<b>Rebirth</b><br/><b>Bond</b>: Restore 3 Health to your General.
+11131,Redsteel Minos,Minion,3.0,2.0,3.0,Neutral,Common,Immortal,<b>Blood Surge</b>: Gains +2/+2.
+10016,Repulsor Beast,Minion,3.0,2.0,2.0,Neutral,Basic,Core,<b>Opening Gambit</b>: Push a nearby enemy minion to any space.
+20057,Ritual Banishing,Spell,3.0,N/A,N/A,Abyssian,Rare,Core,Destroy a friendly minion to destroy an enemy minion.
+11108,Rokadoptera,Minion,3.0,2.0,3.0,Neutral,Common,Unearthed,<b>Opening Gambit</b>: Put a Boulder Hurl into your action bar.
+10014,Sand Burrower,Minion,3.0,2.0,4.0,Neutral,Common,Core,"When this minion survives damage, it returns to your action bar."
+210,Sand Howler,Dervish,3.0,3.0,3.0,Vetruvian,Rare,Core,Cannot be targeted by enemy spells.
+11027,Sapphire Seer,Minion,3.0,2.0,2.0,Neutral,Common,Core,<b>Forcefield</b>
+19045,Sarlac the Eternal,Minion,3.0,1.0,1.0,Neutral,Legendary,Core,<b>Dying Wish</b>: Re-summon this minion on a random space.
+11157,Scarzig,Minion,3.0,1.0,2.0,Neutral,Legendary,Mythron,"If this minion destroys an enemy and survives, friendly Scarzig ANYWHERE transform into Feather Knights."
+32,Scintilla,Minion,3.0,3.0,4.0,Lyonar,Common,Ancients,<b>Blood Surge</b>: Restore 3 Health to your General.
+20097,Scion's Third Wish,Spell,3.0,N/A,N/A,Vetruvian,Legendary,Core,Give a friendly Dervish minion +3/+3 and <b>Flying</b>.
+11146,Sellsoul,Minion,3.0,4.0,5.0,Neutral,Rare,Mythron,<b>Dying Wish</b>: Deal 4 damage to YOUR General.
+20065,Shadow Reflection,Spell,3.0,N/A,N/A,Abyssian,Common,Core,Give a friendly minion +5 Attack.
+311,Shadow Watcher,Minion,3.0,2.0,2.0,Abyssian,Basic,Core,<b>Deathwatch</b>: Gains +1/+1.
+11,Silverguard Knight,Minion,3.0,1.0,5.0,Lyonar,Basic,Core,<b>Provoke</b><br/><b>Zeal</b>: Gains +2 Attack
+10009,Silvertongue Corsair,Minion,3.0,3.0,3.0,Neutral,Rare,Core,Takes no damage from Generals.
+253,Simulacra Obelysk,Structure,3.0,0.0,7.0,Vetruvian,Legendary,Immortal,"<b>Build</b>: (2).<br/><b>Summon Dervish</b><br/>When this minion is built, start building another on a nearby space."
+343,Skullprophet,Minion,3.0,3.0,3.0,Abyssian,Rare,Unearthed,<b>Sentinel</b>: General attacks.<br/>The enemy General has -1 Attack.
+20187,Sky Burial,Spell,3.0,N/A,N/A,Lyonar,Rare,ShimZar,Destroy a minion that is not nearby any General.
+251,Skyppy,Minion,3.0,3.0,3.0,Vetruvian,Common,Immortal,<b>Dying Wish</b>: Put a random legendary artifact from your opponent's Faction into your action bar.
+30001,Skywind Glaives,Artifact,3.0,N/A,N/A,Lyonar,Epic,Core,Friendly minions nearby your General gain +2 Attack.
+11035,Skywing,Minion,3.0,3.0,3.0,Neutral,Rare,Core,<b>Flying</b><br/>Your other minions with <b>Flying</b> cost 1 less.
+529,Snow Rippler,Vespyr,3.0,3.0,4.0,Vanar,Common,ShimZar,"<b>Infiltrate</b>: Whenever this minion damages a General, put a random Battle Pet into your action bar."
+30015,Snowpiercer,Artifact,3.0,N/A,N/A,Vanar,Basic,Core,Your General gains +3 Attack.
+11058,Soboro,Minion,3.0,2.0,4.0,Neutral,Epic,ShimZar,"Whenever this damages a neutral minion, destroy that minion."
+19049,Sojourner,Minion,3.0,1.0,5.0,Neutral,Rare,Core,"Whenever this minion deals damage, draw a card."
+35,Sol Pontiff,Golem,3.0,1.0,4.0,Lyonar,Epic,Ancients,<b>Zeal</b>: Your Golems have +2 Attack.
+10992,Songweaver,Minion,3.0,3.0,3.0,Neutral,Common,Core,<b>Opening Gambit</b>: Give a nearby friendly minion +1/+1.
+30002,Soul Grimwar,Artifact,3.0,N/A,N/A,Abyssian,Legendary,Core,"Your General gains, ""<b>Deathwatch</b>: Gains +2 Attack."""
+135,Sparrowhawk,Arcanyst,3.0,3.0,2.0,Songhai,Common,Ancients,<b>Bond</b>: Put a Mist Dragon Seal into your action bar.
+20328,Substitution,Spell,3.0,N/A,N/A,Songhai,Epic,Immortal,Switch positions between a friendly minion and your General.
+10301,Sun Seer,Arcanyst,3.0,2.0,4.0,Neutral,Common,Core,"Whenever this minion deals damage, restore 2 Health to your General."
+29,Sunforge Lancer,Minion,3.0,2.0,4.0,Lyonar,Epic,Core,"Whenever anything is healed, give your General +1 Attack."
+48,Surgeforger,Minion,3.0,2.0,2.0,Lyonar,Legendary,Immortal,"Whenever you summon a minion nearby this minion, give them both +1/+1."
+19005,Sword of MECHAZ0R,Mech,3.0,3.0,3.0,Neutral,Rare,Core,<b>Frenzy</b><br/><b>Opening Gambit</b>: Progresses MECHAZ0R build by +20%.
+10954,Sworn Avenger,Minion,3.0,1.0,3.0,Neutral,Epic,Core,"<b>Ranged</b><br/>Whenever your General takes damage, this minion gains +1 Attack."
+10974,Syvrel the Exile,Minion,3.0,1.0,4.0,Neutral,Epic,Core,<b>Ranged</b><br/>Minions damaged by Syvrel are pulled in front of him.
+20234,Tectonic Spikes,Spell,3.0,N/A,N/A,Magmar,Rare,Ancients,Both players draw 3 cards. Deal 3 damage to both Generals.
+437,Terradon,Minion,3.0,2.0,8.0,Magmar,Common,Unearthed,
+30035,The Dredger,Artifact,3.0,N/A,N/A,Vanar,Legendary,Unearthed,"Whenever your General damages an enemy, randomly teleport them to your starting side of the battlefield."
+30030,The Releaser,Artifact,3.0,N/A,N/A,Abyssian,Rare,Ancients,"When this artifact breaks, summon a random friendly non-token minion destroyed this game nearby."
+429,Thraex,Minion,3.0,2.0,4.0,Magmar,Common,Ancients,<b>Blood Surge</b>: All friendly minions gain +1 Attack (including itself).
+20314,Thunderbomb,Spell,3.0,N/A,N/A,Songhai,Common,Immortal,Deal 3 damage to an enemy and 1 damage to all enemies around it.
+20078,Time Maelstrom,Spell,3.0,N/A,N/A,Vetruvian,Legendary,Core,Reactivate your General.
+132,Twilight Fox,Minion,3.0,3.0,3.0,Songhai,Legendary,Ancients,<b>Blood Surge</b>: Teleport a random enemy to the space behind your General.
+30017,Twin Fang,Artifact,3.0,N/A,N/A,Magmar,Legendary,Core,"Whenever a friendly minion or your General takes damage, your General gains +2 Attack."
+20082,Twin Strike,Spell,3.0,N/A,N/A,Songhai,Common,Core,Deal 2 damage to exactly two random enemy minions. Draw a card at end of turn.
+30033,Unbounded Energy Amulet,Artifact,3.0,N/A,N/A,Songhai,Legendary,Unearthed,Your General gains +1 Attack.<br/>Your General may move an additional space.
+20338,Upper Hand,Spell,3.0,N/A,N/A,Magmar,Rare,Immortal,Deal 1 damage to an enemy minion for each card in your opponent's action bar.
+10960,Venom Toth,Minion,3.0,3.0,3.0,Neutral,Epic,Core,"Whenever your opponent summons a minion, deal 1 damage to the enemy General."
+47,Vigilator,Minion,3.0,3.0,4.0,Lyonar,Common,Immortal,"<b>Build</b>: (1).<br/>When this minion is built, give nearby friendly minions +3 Health."
+417,Vindicator,Minion,3.0,1.0,3.0,Magmar,Legendary,Core,"Whenever your opponent draws a card, this minion gains +2/+2."
+10982,Void Hunter,Minion,3.0,4.0,2.0,Neutral,Common,Core,<b>Dying Wish</b>: Draw a card.
+20205,Void Steal,Spell,3.0,N/A,N/A,Abyssian,Rare,ShimZar,Give an enemy minion -3 Attack. Nearby friendly minions gain +3 Attack.
+350,Void Talon,Minion,3.0,6.0,1.0,Abyssian,Common,Immortal,<b>Build</b>: (1).
+134,Whiplash,Minion,3.0,4.0,3.0,Songhai,Common,Ancients,<b>Blood Surge</b>: Deal 2 damage to the enemy General.
+109,Widowmaker,Minion,3.0,2.0,3.0,Songhai,Basic,Core,<b>Ranged</b>
+11105,Wild Tahr,Minion,3.0,2.0,4.0,Neutral,Common,Unearthed,"<b>Frenzy</b><br/>Whenever an enemy attacks, this minion gains +3 Attack until the end of your turn."
+30008,Wildfire Ankh,Artifact,3.0,N/A,N/A,Vetruvian,Epic,Core,Your General gains <b>Blast</b>.
+11007,Wind Runner,Minion,3.0,3.0,3.0,Neutral,Rare,Core,"After this minion moves, give all friendly minions around it +1/+1."
+19010,Wind Stopper,Minion,3.0,1.0,7.0,Neutral,Common,Core,Ranged attackers must attack this minion first.
+216,Windstorm Obelysk,Structure,3.0,0.0,6.0,Vetruvian,Common,Core,<b>Summon Dervish</b><br/>Your dervishes have +1 Health.
+11020,Wings of Paradise,Minion,3.0,3.0,3.0,Neutral,Common,Core,"<b>Flying</b><br/>Whenever you replace a card, this minion gains +2 Attack this turn."
+20362,Wither,Spell,3.0,N/A,N/A,Vetruvian,Rare,Mythron,An enemy minion disappears at the start of your next turn.
+511,Wolfraven,Minion,3.0,1.0,4.0,Vanar,Common,Core,<b>Flying</b><br/><b>Infiltrate</b>: Gain +3 Attack.
+20089,Wraithling Fury,Spell,3.0,N/A,N/A,Abyssian,Epic,Core,Give a friendly Wraithling minion +4/+4.
+20072,Wraithling Swarm,Spell,3.0,N/A,N/A,Abyssian,Basic,Core,Summon three 1/1 Wraithlings nearby each other.
+345,Xerroloth,Minion,3.0,3.0,2.0,Abyssian,Rare,Unearthed,"<b>Sentinel</b>: Spell cast.<br/>Whenever your opponent casts a spell, put a 4/4 Fiend into your action bar."
+11004,Yun,Battle Pet,3.0,5.0,4.0,Neutral,Common,ShimZar,
+235,Zephyr,Minion,3.0,3.0,3.0,Vetruvian,Common,Ancients,<b>Blood Surge</b>: Your General gains <b>Frenzy</b> this turn.
+11059,Zukong,Minion,3.0,3.0,4.0,Neutral,Legendary,ShimZar,You control your Battle Pets.
+309,Abyssal Juggernaut,Minion,4.0,3.0,3.0,Abyssian,Common,Core,This minion has +1/+1 for each friendly <b>Shadow Creep</b>.
+20357,Accumulonimbus,Spell,4.0,N/A,N/A,Vetruvian,Common,Mythron,<b>Intensify</b>: Summon 2 Wind Dervishes nearby your General.
+30012,Adamantite Claws,Artifact,4.0,N/A,N/A,Magmar,Basic,Core,Your General gains +4 Attack.
+231,Allomancer,Minion,4.0,4.0,3.0,Vetruvian,Epic,ShimZar,<b>Dying Wish</b>: Summon a random Obelysk on this space.
+20100,Ancestral Divination,Spell,4.0,N/A,N/A,Songhai,Common,Core,Draw a card for each friendly minion.
+30018,Arclyte Regalia,Artifact,4.0,N/A,N/A,Lyonar,Legendary,Core,"Your General gains +2 Attack. The first time your General takes damage each turn, prevent 2 of it."
+11033,Arrow Whistler,Minion,4.0,2.0,4.0,Neutral,Common,Core,<b>Ranged</b><br/>Your other minions with <b>Ranged</b> get +1 Attack.
+10961,Artifact Hunter,Minion,4.0,3.0,3.0,Neutral,Epic,Core,<b>Opening Gambit</b>: Draw a random artifact from your deck.
+20145,Aspect of the Wyrm,Spell,4.0,N/A,N/A,Vanar,Epic,Core,Transform ANY minion into a 4/4 Whyte Drake with <b>Flying</b>. Nearby friendly minions gain <b>Flying</b>.
+20136,Avalanche,Spell,4.0,N/A,N/A,Vanar,Basic,Core,Deal 4 damage to everything on your starting side of the battlefield and <b>Stun</b> them.
+155,Bakezori,Minion,4.0,2.0,6.0,Songhai,Epic,Mythron,"Whenever this minion is moved for any reason, draw a card."
+249,Barren Shrike,Minion,4.0,5.0,5.0,Vetruvian,Common,Immortal,<b>Build</b>: (2).<br/><b>Blast</b>
+453,Beastclad Hunter,Minion,4.0,3.0,6.0,Magmar,Rare,Mythron,Takes no damage from minions with less Attack.
+11006,Black Locust,Minion,4.0,2.0,2.0,Neutral,Legendary,Core,"<b>Flying</b><br/>After this minion moves, summon a Black Locust nearby."
+20298,Blinding Snowstorm,Spell,4.0,N/A,N/A,Vanar,Common,Unearthed,Deal 1 damage to all enemies. Those enemies can only move 1 space next turn.
+11043,Blistering Skorn,Minion,4.0,4.0,5.0,Neutral,Common,Core,<b>Opening Gambit</b>: Deal 1 damage to everything (including itself).
+20297,Blood Rage,Spell,4.0,N/A,N/A,Magmar,Common,Unearthed,Give a friendly minion +1/+1 for each time damage was dealt this turn.
+11122,Bloodsworn Gambler,Minion,4.0,2.0,3.0,Neutral,Epic,Unearthed,"<b>Ranged</b><br/>Each time this minion attacks, it has a 50% chance to attack again, attacking a random enemy."
+310,Bloodtide Priestess,Minion,4.0,3.0,3.0,Abyssian,Rare,Core,<b>Deathwatch</b>: Summon a Wraithling on a random nearby space.
+20131,Breath Of The Unborn,Spell,4.0,N/A,N/A,Abyssian,Common,Core,Deal 2 damage to all enemy minions. Fully heal all friendly minions.
+348,Cacophynos,Minion,4.0,6.0,3.0,Abyssian,Common,Immortal,<b>Dying Wish</b>: Destroy a random nearby enemy minion.
+10989,Captain Hank Hart,Minion,4.0,2.0,4.0,Neutral,Epic,Core,"<b>Ranged</b><br/>Whenever this minion deals damage, restore that much Health to it. "
+19006,Chassis of MECHAZ0R,Mech,4.0,2.0,4.0,Neutral,Epic,Core,<b>Forcefield</b><br/><b>Opening Gambit</b>: Progresses MECHAZ0R build by +20%.
+160,Coalfist,Minion,4.0,4.0,4.0,Songhai,Common,Mythron,<b>Intensify</b>: Give a random nearby friendly minion +2 Attack this turn.
+20240,Cobra Strike,Spell,4.0,N/A,N/A,Songhai,Epic,Ancients,Deal 3 damage to an enemy minion AND the enemy General.
+20165,Cryogenesis,Spell,4.0,N/A,N/A,Vanar,Common,Core,Deal 4 damage to an enemy minion. Draw a Vespyr minion from your deck.
+20069,Dark Seed,Spell,4.0,N/A,N/A,Abyssian,Rare,Core,Deal 1 damage to the enemy General for each card in the opponent's action bar.
+20128,Decimate,Spell,4.0,N/A,N/A,Lyonar,Legendary,Core,Destroy ALL minions that are not nearby any General.
+11086,Decimus,Minion,4.0,4.0,4.0,Neutral,Legendary,Core,"Whenever your opponent draws a card, deal 2 damage to the enemy General."
+312,Deepfire Devourer,Minion,4.0,4.0,4.0,Abyssian,Common,Core,<b>Frenzy</b><br/><b>Opening Gambit</b>: Destroy friendly minions around it and gain +2/+2 for each minion.
+557,Denadoro,Minion,4.0,4.0,5.0,Vanar,Legendary,Immortal,Your minions are always infiltrated.
+341,Desolator,Minion,4.0,3.0,1.0,Abyssian,Legendary,Unearthed,<b>Opening Gambit</b>: Steal 2 Health from the enemy General.<br/><b>Dying Wish</b>: Return Desolator to your action bar.
+10976,Dioltas,Minion,4.0,5.0,3.0,Neutral,Epic,Core,<b>Dying Wish</b>: Summon a 0/10 Tombstone minion with Provoke near your General.
+428,Drogon,Minion,4.0,5.0,4.0,Magmar,Legendary,Ancients,<b>Blood Surge</b>: Double your General's Attack this turn.
+419,Earth Sister Taygete,Minion,4.0,3.0,4.0,Magmar,Legendary,Core,"Whenever this minion takes damage, deal that much damage to all nearby enemies."
+20117,Earth Sphere,Spell,4.0,N/A,N/A,Magmar,Common,Core,Restore 8 Health to your General.
+20157,Egg Morph,Spell,4.0,N/A,N/A,Magmar,Rare,Core,"Turn a non-Egg minion into an Egg, or hatch an Egg."
+407,Elucidator,Minion,4.0,5.0,4.0,Magmar,Rare,Core,<b>Rush</b><br/><b>Opening Gambit</b>: Deal 4 damage to your General.
+10995,Emerald Rejuvenator,Minion,4.0,4.0,4.0,Neutral,Rare,Core,<b>Opening Gambit</b>: Restore 4 Health to BOTH Generals.
+20391,Endless Hunt,Spell,4.0,N/A,N/A,Vanar,Rare,Mythron,Summon a 3/3 Vespyr Night Howler.<br/>Put an Endless Hunt into your action bar.
+20077,Entropic Decay,Spell,4.0,N/A,N/A,Vetruvian,Basic,Core,Destroy an enemy minion nearby your General.
+11091,Feralu,Minion,4.0,4.0,3.0,Neutral,Rare,Ancients,Friendly minions from any tribe have +1/+1.
+10017,Fire Spitter,Minion,4.0,3.0,2.0,Neutral,Basic,Core,<b>Ranged</b>
+11151,Fizzling Mystic,Minion,4.0,3.0,3.0,Neutral,Common,Mythron,<b>Opening Gambit</b>: Deal 2 damage to an enemy OR restore 2 Health to a friendly minion or General.
+138,Flamewreath,Minion,4.0,2.0,4.0,Songhai,Common,Unearthed,"Whenever this minion is moved for any reason, it deals 2 damage to all enemies around it."
+116,Four Winds Magi,Arcanyst,4.0,4.0,4.0,Songhai,Rare,Core,"Whenever you cast a spell, deal 1 damage to enemy General and restore 1 Health to your General"
+19042,Frostbone Naga,Minion,4.0,3.0,3.0,Neutral,Common,Core,<b>Opening Gambit</b>: Deal 2 damage to everything around it.
+20370,Gargantuan Growth,Spell,4.0,N/A,N/A,Magmar,Rare,Mythron,"Give a minion, ""Grow: +8/+8."""
+353,Gate to the Undervault,Structure,4.0,0.0,0.0,Abyssian,Legendary,Immortal,<b>Build</b>: (3).<br/><b>Invulnerable</b><br/><b>Deathwatch</b>: Summon a random Demon nearby.
+30020,Ghost Azalea,Artifact,4.0,N/A,N/A,Abyssian,Legendary,ShimZar,Your General gains +1 Attack for each friendly <b>Shadow Creep</b>.
+445,Gigaloth,Minion,4.0,7.0,7.0,Magmar,Legendary,Immortal,"<b>Build</b>: (2).<br/>Whenever this minion attacks, other friendly minions gain +3/+3."
+11057,Gnasher,Minion,4.0,3.0,3.0,Neutral,Common,ShimZar,<b>Dying Wish</b>: This minion deals 3 damage to all enemies around it.
+403,Grimrock,Minion,4.0,3.0,4.0,Magmar,Common,Core,<b>Grow</b>: +2/+2
+10978,Hailstone Golem,Golem,4.0,4.0,6.0,Neutral,Basic,Core,
+458,Haruspex,Minion,4.0,7.0,6.0,Magmar,Legendary,Mythron,"Whenever this minion takes damage, your opponent draws a card."
+456,Hatefurnace,Minion,4.0,5.0,4.0,Magmar,Mythron,Mythron,<b>Trial</b>: Give 7 minions on the battlefield +Attack by casting a spell.<br/><b>Destiny</b>: Minions summoned from your action bar gain <b>Rush</b> and <b>Frenzy</b>.
+30011,Hexblade,Artifact,4.0,N/A,N/A,Vetruvian,Legendary,Core,"Your General gains +3 Attack. Whenever your General damages an enemy minion, its Attack becomes 1."
+20067,Holy Immolation,Spell,4.0,N/A,N/A,Lyonar,Epic,Core,Restore 4 Health to a friendly minion. Deal 4 damage to enemies around it.
+20344,Homeostatic Rebuke,Spell,4.0,N/A,N/A,Magmar,Epic,Immortal,ALL minions attack themselves.
+11159,Hsuku,Minion,4.0,2.0,6.0,Neutral,Epic,Mythron,"At the end of any player's turn, give one of their minions a random buff and keyword (excluding Hsuku)."
+542,Hydrogarm,Vespyr,4.0,3.0,3.0,Vanar,Epic,Immortal,<b>Blood Surge</b>: Deal 1 damage to enemy minions in this row and <b>Stun</b> them.
+20325,Invincible,Spell,4.0,N/A,N/A,Lyonar,Epic,Immortal,Give a friendly minion with full Health +4/+4.
+20186,Ironcliffe Heart,Spell,4.0,N/A,N/A,Lyonar,Epic,ShimZar,Transform a friendly minion into an Ironcliffe Guardian.
+49,Ironcliffe Monument,Structure,4.0,0.0,10.0,Lyonar,Legendary,Immortal,"<b>Build</b>: (2).<br/>Whenever you summon a minion nearby this, transform that minion into an Ironcliffe Guardian."
+120,Keshrai Fanblade,Minion,4.0,5.0,3.0,Songhai,Common,Core,"<b>Opening Gambit</b>: Next turn, opponent's spells cost 2 more to cast"
+136,Kindling,Arcanyst,4.0,3.0,5.0,Songhai,Epic,Ancients,"Whenever you cast a spell, your Arcanyst minions gain +1 Attack."
+10306,Lightbender,Arcanyst,4.0,3.0,3.0,Neutral,Rare,Core,<b>Opening Gambit</b>: Dispel ALL spaces around it.
+11096,Loreweaver,Arcanyst,4.0,2.0,5.0,Neutral,Rare,Ancients,"Whenever you draw a spell, put a copy of it into your action bar."
+20342,Lost in the Desert,Spell,4.0,N/A,N/A,Vetruvian,Epic,Immortal,Deal 6 damage to enemies that are not nearby another enemy.
+8,Lysian Brawler,Minion,4.0,4.0,4.0,Lyonar,Basic,Core,<b>Celerity</b>
+561,Malicious Wisp,Minion,4.0,4.0,3.0,Vanar,Epic,Mythron,<b>Opening Gambit</b>: Take a mana crystal from your opponent.<br/><b>Dying Wish</b>: Give back the mana crystal.
+148,Manakite Drifter,Minion,4.0,3.0,3.0,Songhai,Common,Immortal,"<b>Build</b>: (2).<br/>When this minion is built, gain +2 mana this turn."
+157,Massacre Artist,Minion,4.0,2.0,5.0,Songhai,Legendary,Mythron,"<b>Backstab</b>: (2).<br/>After this minion attacks and backstabs, all attacks are backstabs this turn."
+11110,Matter Shaper,Minion,4.0,5.0,4.0,Neutral,Rare,Unearthed,<b>Opening Gambit</b>: Destroy an enemy artifact to put a random artifact from your faction into your action bar.
+563,Meltwater Moose,Vespyr,4.0,6.0,7.0,Vanar,Common,Mythron,"When this minion is summoned, <b>Stun</b> it."
+20156,Mind Steal,Spell,4.0,N/A,N/A,Magmar,Epic,Core,Steal a random minion from your opponent's deck and summon it.
+10965,Mindwarper,Arcanyst,4.0,4.0,3.0,Neutral,Rare,Core,<b>Opening Gambit</b>: Gain a copy of a random spell from your opponent's action bar.
+219,Mirage Master,Minion,4.0,1.0,1.0,Vetruvian,Epic,Core,<b>Opening Gambit</b>: This minion transforms into a copy of an enemy minion.
+10988,Moebius,Arcanyst,4.0,3.0,5.0,Neutral,Epic,Core,"At the start of your turn, fully heal this minion and switch its Attack and Health."
+340,Nekomata,Minion,4.0,4.0,2.0,Abyssian,Epic,Unearthed,<b>Dying Wish</b>: Draw two minions with <b>Dying Wish</b> from your deck.
+11080,Night Watcher,Minion,4.0,2.0,4.0,Neutral,Epic,Core,"<b>Forcefield</b><br/>Whenever ANY player summons a minion with <b>Rush</b>, exhaust it."
+336,Nightshroud,Arcanyst,4.0,5.0,1.0,Abyssian,Common,Ancients,<b>Bond</b>: Your General steals 1 Health from the enemy General for each other friendly Arcanyst.
+440,Omniseer,Minion,4.0,4.0,5.0,Magmar,Rare,Unearthed,<b>Opening Gambit</b>: Turn a nearby friendly minion's space into <b>Primal Flourish</b>.
+10305,Owlbeast Sage,Arcanyst,4.0,4.0,4.0,Neutral,Rare,Core,"Whenever you cast a spell, your Arcanyst minions gain +2 Health."
+20193,Pandamonium,Spell,4.0,N/A,N/A,Songhai,Epic,ShimZar,Transform ALL minions into 0/2 Panddo that cannot be attacked until end of turn.
+19027,Primus Shieldmaster,Minion,4.0,3.0,6.0,Neutral,Basic,Core,<b>Provoke</b>
+441,Progenitor,Minion,4.0,5.0,4.0,Magmar,Legendary,Immortal,<b>Opening Gambit</b>: Each of your other non-Egg minions summon an Egg of itself behind itself.
+20319,Pupabomb,Spell,4.0,N/A,N/A,Magmar,Epic,Immortal,Destroy a friendly Egg to deal 4 damage to enemies around it.
+10991,"Purgatos, The Realmkeeper",Minion,4.0,3.0,4.0,Neutral,Epic,Core,"Whenever this minion deals damage, either deal 3 damage to the enemy General OR restore 3 Health to your General."
+513,Razorback,Minion,4.0,4.0,3.0,Vanar,Rare,Core,<b>Opening Gambit</b>: Give all friendly minions +2 Attack this turn.
+11106,Razorcrag Golem,Golem,4.0,10.0,3.0,Neutral,Common,Unearthed,
+11150,Riftwalker,Minion,4.0,3.0,3.0,Neutral,Rare,Mythron,<b>Airdrop</b><br/><b>Intensify</b>: Deal 1 damage to everything around it.
+435,Rizen,Minion,4.0,3.0,2.0,Magmar,Epic,Unearthed,"Whenever your opponent summons a minion, this minion summons an Egg of itself nearby."
+10012,Saberspine Tiger,Minion,4.0,3.0,2.0,Neutral,Basic,Core,<b>Rush</b>
+224,Sand Sister Saon,Minion,4.0,3.0,4.0,Vetruvian,Legendary,Core,Your General has +1 Attack.
+11087,Sanguinar,Minion,4.0,5.0,4.0,Neutral,Rare,Ancients,Your Bloodbound Spell costs 1 less to activate.
+20051,Shadow Nova,Spell,4.0,N/A,N/A,Abyssian,Basic,Core,Turn a 2x2 area into <b>Shadow Creep</b>.
+324,Shadow Sister Kelaino,Minion,4.0,3.0,3.0,Abyssian,Legendary,Core,"Whenever an enemy takes damage, restore 1 Health to your General."
+19044,Silhouette Tracer,Minion,4.0,2.0,6.0,Neutral,Common,Core,<b>Opening Gambit</b>: Teleport your General up to 3 spaces.
+537,Sleet Dasher,Minion,4.0,3.0,6.0,Vanar,Rare,Ancients,"Whenever this minion destroys an enemy, reactivate it."
+39,Solpiercer,Minion,4.0,3.0,4.0,Lyonar,Rare,Unearthed,<b>Zeal</b>: <b>Ranged</b>
+10975,Spelljammer,Minion,4.0,3.0,5.0,Neutral,Legendary,Core,Each player draws an additional card at the end of their turns.
+11078,Sphynx,Minion,4.0,5.0,4.0,Neutral,Legendary,Core,<b>Opening Gambit</b>: Put a Riddle in your opponent's action bar.
+124,Storm Sister Alkyone,Minion,4.0,3.0,5.0,Songhai,Legendary,Core,Spells you cast that deal damage deal +1 damage.
+11015,Sun Elemental,Minion,4.0,3.0,3.0,Neutral,Common,Core,<b>Opening Gambit</b>: Give two random friendly minions +2 Health.
+24,Sun Sister Sterope,Minion,4.0,4.0,4.0,Lyonar,Legendary,Core,"Whenever anything is healed, put a True Strike into your action bar."
+31,Sunbreaker,Minion,4.0,2.0,4.0,Lyonar,Rare,Ancients,<b>Forcefield</b>. Your Bloodbound Spell is Tempest.
+22,Sunriser,Minion,4.0,3.0,4.0,Lyonar,Epic,Core,"Whenever anything is healed, deal 2 damage to all nearby enemies."
+11028,Sunsteel Defender,Minion,4.0,4.0,3.0,Neutral,Rare,Core,<b>Forcefield</b>
+20320,Sunstrike,Spell,4.0,N/A,N/A,Lyonar,Epic,Immortal,Deal 3 damage to enemies and restore 3 Health to friendly minions and Generals in a row.
+16,Suntide Maiden,Minion,4.0,3.0,6.0,Lyonar,Common,Core,"<b>Zeal</b>: At the end of your turn, fully heal this minion."
+11041,Sworn Sister L'Kian,Minion,4.0,2.0,4.0,Neutral,Legendary,Core,<b>Opening Gambit</b>: Add 2 random cards from your Faction to your action bar.
+20381,Synaptic Arbitrage,Spell,4.0,N/A,N/A,Vetruvian,Epic,Mythron,Give your opponent a minion to take control of nearby enemy minions with less Attack.
+11025,Tethermancer,Minion,4.0,1.0,6.0,Neutral,Rare,Core,<b>Provoke</b><br/>Dispel any minion that deals damage to this one.
+19031,Thorn Needler,Minion,4.0,6.0,4.0,Neutral,Basic,Core,
+20218,Thumping Wave,Spell,4.0,N/A,N/A,Magmar,Rare,ShimZar,"Give a minion +5 Attack. At end of turn, transform it into a 3/3 Kin."
+30029,Thunderclap,Artifact,4.0,N/A,N/A,Vetruvian,Rare,Ancients,"When your General destroys a minion, summon a copy of it nearby."
+11115,Thunderhorn,Minion,4.0,4.0,5.0,Neutral,Epic,Unearthed,"Whenever this minion damages an enemy, it also damages all joined enemies."
+11139,Timekeeper,Minion,4.0,2.0,2.0,Neutral,Common,Immortal,<b>Opening Gambit</b>: Your buildings progress by 1 turn.
+20232,Trinity Oath,Spell,4.0,N/A,N/A,Lyonar,Epic,Ancients,Draw 3 cards and restore 3 Health to your General.
+242,Trygon Obelysk,Structure,4.0,0.0,9.0,Vetruvian,Legendary,Unearthed,<b>Summon Dervish</b><br/><b>Summon Dervish</b><br/><b>Summon Dervish</b>
+11036,Unseven,Minion,4.0,2.0,4.0,Neutral,Legendary,Core,<b>Dying Wish</b>: Summon a minion with <b>Dying Wish</b> from your action bar.
+20245,Valknu's Seal,Spell,4.0,N/A,N/A,Magmar,Epic,Ancients,Summon an Egg that hatches into a copy of your General.
+20334,Vellumscry,Spell,4.0,N/A,N/A,Abyssian,Common,Immortal,Destroy a friendly minion to draw three cards.
+20296,Verdant Fulmination,Spell,4.0,N/A,N/A,Magmar,Epic,Unearthed,Your minions on friendly <b>Primal Flourish</b> grow. Turn your other minions' spaces into <b>Primal Flourish</b>.
+413,Veteran Silithar,Minion,4.0,4.0,3.0,Magmar,Common,Core,<b>Rebirth</b>
+515,Voice of the Wind,Minion,4.0,4.0,4.0,Vanar,Legendary,Core,"Whenever you summon a minion from your action bar, summon a 2/2 Vespyr Winter Maerid nearby."
+20208,Wailing Overdrive,Spell,4.0,N/A,N/A,Vanar,Common,ShimZar,Give a friendly minion on your opponent's starting side of the battlefield +5/+5.
+41,War Judicator,Minion,4.0,4.0,5.0,Lyonar,Rare,Unearthed,Nearby friendly minions cannot be targeted by enemy spells.
+244,Wasteland Wraith,Minion,4.0,1.0,5.0,Vetruvian,Epic,Unearthed,"At the start of your turn, destroy this and all enemy minions."
+30021,White Asp,Artifact,4.0,N/A,N/A,Vanar,Legendary,ShimZar,"Your General gains +3 Attack. Whenever your General destroys a minion, summon a 3/3 Blazing Spine Wall on that space."
+11019,White Widow,Minion,4.0,3.0,4.0,Neutral,Rare,Core,"Whenever you replace a card, deal 2 damage to a random enemy."
+422,Wild Inceptor,Minion,4.0,3.0,3.0,Magmar,Common,ShimZar,<b>Opening Gambit</b>: Hatch a friendly Egg.
+150,Wildfire Tenketsu,Minion,4.0,3.0,5.0,Songhai,Epic,Immortal,<b>Blood Surge</b>: Put an Eight Gates into your action bar.
+208,Wind Shrike,Minion,4.0,4.0,3.0,Vetruvian,Basic,Core,<b>Flying</b><br/><b>Dying Wish</b>: Draw a card.
+528,Wind Sister Maia,Minion,4.0,4.0,5.0,Vanar,Legendary,Core,"Whenever you summon a minion with <b>Infiltrate</b>, it gains +1/+1."
+239,Wind Striker,Golem,4.0,1.0,4.0,Vetruvian,Epic,Ancients,<b>Flying</b><br/><b>Opening Gambit</b>: Equip a Staff of Y'kir to your General.
+56,Windcliffe Alarmist,Minion,4.0,2.0,2.0,Lyonar,Common,Mythron,<b>Opening Gambit</b>: Summon a 5/5 Windcliffe Protector with <b>Provoke</b> from your deck.
+30019,Winterblade,Artifact,4.0,N/A,N/A,Vanar,Epic,Core,Your General gains +2 Attack. Enemy minions damaged by your General are <b>Stunned</b>.
+20330,Wintertide,Spell,4.0,N/A,N/A,Vanar,Epic,Immortal,Summon three 2/2 Vespyr Winter Maerids on any column.
+30051,Wraithcrown,Artifact,4.0,N/A,N/A,Abyssian,Epic,Mythron,Friendly Wraithlings have +2/+2.
+19034,Young Flamewing,Minion,4.0,5.0,4.0,Neutral,Basic,Core,<b>Flying</b>.
+11144,Alcuin Fugitive,Arcanyst,5.0,2.0,5.0,Neutral,Legendary,Mythron,"At the end of any turn you cast a spell, put a copy of the most recently cast spell into your action bar."
+11040,Alter Rexx,Mech,5.0,4.0,4.0,Neutral,Legendary,Core,"Whenever you summon MECHAZ0R, put a MECHAZ0R in your action bar."
+30040,Animus Plate,Artifact,5.0,N/A,N/A,Vanar,Rare,Immortal,"Your General gains +2 Attack.<br/>Whenever your General attacks or counterattacks, give all friendly Vespyr minions +2/+2."
+526,Arctic Displacer,Vespyr,5.0,10.0,4.0,Vanar,Basic,Core,<b>Airdrop</b>
+10983,Ash Mephyt,Minion,5.0,2.0,3.0,Neutral,Common,Core,<b>Opening Gambit</b>: Summon two copies of this minion on random spaces.
+20343,Auroraboros,Spell,5.0,N/A,N/A,Vanar,Legendary,Immortal,"Give friendly minions ""<b>Dying Wish</b>: Re-summon this minion on this space."""
+11054,Beastbound Savage,Minion,5.0,2.0,5.0,Neutral,Rare,ShimZar,<b>Frenzy</b><br/><b>Celerity</b>
+321,Black Solus,Minion,5.0,4.0,7.0,Abyssian,Epic,Core,"When you summon a Wraithling, this minion gains +2 Attack."
+20254,Blood of Air,Spell,5.0,N/A,N/A,Vetruvian,Common,Core,Transform an enemy minion into a friendly Wind Dervish.
+11094,Blue Conjurer,Arcanyst,5.0,4.0,6.0,Neutral,Rare,Ancients,"Whenever you cast a spell, put a random Arcanyst into your action bar."
+11092,Boulder Breacher,Golem,5.0,5.0,5.0,Neutral,Rare,Ancients,<b>Bond</b>: Enemies can't counterattack this turn.
+10204,Brightmoss Golem,Golem,5.0,4.0,9.0,Neutral,Basic,Core,
+11063,Calculator,Minion,5.0,1.0,1.0,Neutral,Epic,ShimZar,<b>Opening Gambit</b>: Gain the combined Attack and Health of all Battle Pets in your action bar.
+11134,Capricious Marauder,Minion,5.0,9.0,9.0,Neutral,Rare,Immortal,"Whenever a friendly minion is destroyed, your opponent takes control of this minion."
+11042,Chakkram,Minion,5.0,5.0,5.0,Neutral,Rare,Core,This minion costs 2 less if your General took damage on opponent's last turn.
+11154,Chirpuka,Minion,5.0,3.0,6.0,Neutral,Epic,Mythron,"Whenever your opponent summons a minion, summon a 2/1 Puka with <b>Provoke</b> in front of it."
+20104,Circle of Life,Spell,5.0,N/A,N/A,Lyonar,Epic,Core,Deal 5 damage to an enemy minion. Restore 5 Health to your General.
+560,Cloudcaller,Minion,5.0,4.0,5.0,Vanar,Legendary,Mythron,<b>Opening Gambit</b>: Your Bloodbound Spell refreshes and is Lesser Waterball this turn.
+20284,Corporeal Cadence,Spell,5.0,N/A,N/A,Abyssian,Epic,Unearthed,Destroy a friendly minion to deal its Attack to the enemy General.
+20198,Corpse Combustion,Spell,5.0,N/A,N/A,Vetruvian,Epic,ShimZar,Summon all friendly minions with Dying Wish destroyed since your last turn on random spaces.
+10958,Dagger Kiri,Minion,5.0,2.0,8.0,Neutral,Common,Core,<b>Celerity</b>
+10959,Dancing Blades,Minion,5.0,4.0,6.0,Neutral,Common,Core,<b>Opening Gambit</b>: Deal 3 damage to ANY minion in front of this.
+20061,Dark Transformation,Spell,5.0,N/A,N/A,Abyssian,Basic,Core,Destroy an enemy minion and summon a 1/1 Wraithling on that space.
+11128,DECEPTIB0T,Mech,5.0,5.0,5.0,Neutral,Epic,Immortal,"Whenever this minion destroys an enemy, summon a different Mech minion from your deck nearby."
+20229,Enfeeble,Spell,5.0,N/A,N/A,Vanar,Epic,Ancients,All minions become 1/1.
+11048,Envybaer,Minion,5.0,3.0,7.0,Neutral,Legendary,Core,"Whenever this minion damages an enemy, teleport that enemy to a random corner."
+562,Fenrir Berserker,Minion,5.0,4.0,3.0,Vanar,Rare,Mythron,<b>Dying Wish</b>: Summon a Fenrir Warmaster on this space.
+257,Fifth Canopic,Minion,5.0,4.0,8.0,Vetruvian,Epic,Mythron,The enemy General cannot cast their Bloodbound Spell.
+19028,Fireblazer,Minion,5.0,5.0,5.0,Neutral,Common,Core,<b>Provoke</b>
+11011,Firestarter,Arcanyst,5.0,3.0,5.0,Neutral,Rare,Core,"Whenever you cast a spell, summon a 1/1 Spellspark with <b>Rush</b> on a random nearby space."
+507,Frosthorn Rhyno,Minion,5.0,6.0,5.0,Vanar,Epic,Core,<b>Infiltrate</b>: Gain +1 Attack and <b>Celerity</b>.
+534,Frostiva,Minion,5.0,3.0,3.0,Vanar,Legendary,ShimZar,"<b>Forcefield</b><br/>Whenever this minion attacks or is attacked, summon a 3/3 Vespyr Night Howler nearby."
+30039,Furor Chakram,Artifact,5.0,N/A,N/A,Abyssian,Rare,Immortal,Friendly minions gain +2 Attack and <b>Frenzy</b>.
+133,Geomancer,Minion,5.0,5.0,4.0,Songhai,Rare,Ancients,<b>Opening Gambit</b>: Your Bloodbound Spell is Phoenix Fire.
+11034,Golden Justicar,Minion,5.0,4.0,6.0,Neutral,Epic,Core,<b>Provoke</b><br/>Your other minions with <b>Provoke</b> can move two additional spaces.
+57,Grand Strategos,Minion,5.0,5.0,5.0,Lyonar,Mythron,Mythron,<b>Trial</b>: Summon 12 minions with 1 or less Attack.<br/><b>Destiny</b>: Promote other friendly minions at the end of your turn.
+11049,Grincher,Minion,5.0,5.0,4.0,Neutral,Rare,Core,<b>Opening Gambit</b>: Add a random artifact to your action bar. It costs 2 less.
+247,Gust,Minion,5.0,3.0,5.0,Vetruvian,Epic,Immortal,<b>Blood Surge</b>: Summon two Wind Dervishes nearby.
+30032,Halo Bulwark,Artifact,5.0,N/A,N/A,Lyonar,Legendary,Unearthed,Friendly minions nearby your General have <b>Forcefield</b>.
+119,Hamon Bladeseeker,Minion,5.0,8.0,8.0,Songhai,Epic,Core,"At the start of your turn, deal 2 damage to your General."
+20155,Heaven's Eclipse,Spell,5.0,N/A,N/A,Songhai,Legendary,Core,Draw 3 spell cards from your deck.
+358,Hexclaw,Minion,5.0,7.0,2.0,Abyssian,Legendary,Mythron,"<b>Dying Wish</b>: The enemy General gains, ""At the start of your turn, take 1 damage."""
+11024,Hollow Grovekeeper,Minion,5.0,3.0,4.0,Neutral,Legendary,Core,"<b>Opening Gambit</b>: Destroy ANY nearby minion with Provoke or Frenzy. If you do, this minion gains Provoke and Frenzy."
+532,Huldra,Minion,5.0,3.0,4.0,Vanar,Rare,ShimZar,<b>Opening Gambit</b>: Give a friendly Vespyr minion <b>Celerity</b>.
+11133,Impervious Giago,Minion,5.0,1.0,10.0,Neutral,Rare,Immortal,"<b>Provoke</b><br/>Whenever this minion is attacked, it gains +2 Attack."
+236,Incinera,Minion,5.0,5.0,6.0,Vetruvian,Rare,Ancients,Your General may move 2 additional spaces.
+11064,Inquisitor Kron,Minion,5.0,4.0,4.0,Neutral,Legendary,ShimZar,"<b>Provoke</b><br/>Whenever you replace a card, summon a 2/2 Prisoner with a random ability nearby."
+11085,Ironclad,Minion,5.0,4.0,3.0,Neutral,Epic,Core,<b>Dying Wish</b>: Dispel all enemy minions.
+17,Ironcliffe Guardian,Minion,5.0,3.0,10.0,Lyonar,Rare,Core,<b>Airdrop</b><br/><b>Provoke</b>
+11018,Keeper of the Vale,Minion,5.0,3.0,4.0,Neutral,Legendary,Core,<b>Opening Gambit</b>: Summon a random friendly minion destroyed this game nearby this minion.
+260,Khanuum-ka,Dervish,5.0,3.0,3.0,Vetruvian,Legendary,Mythron,"<b>Flying</b>, <b>Rush</b><br/><b>Dying Wish</b>: A random friendly Dervish disappears, summoning a Khanuum-ka in its place."
+404,Kolossus,Minion,5.0,1.0,7.0,Magmar,Common,Core,<b>Grow</b>: +4/+4
+433,Lavaslasher,Golem,5.0,4.0,7.0,Magmar,Epic,Ancients,<b>Opening Gambit</b>: This minion fights a nearby enemy minion.
+11112,Letigress,Minion,5.0,2.0,6.0,Neutral,Legendary,Unearthed,"<b>Ranged</b><br/>Whenever your General attacks, a cub joins the pack."
+20384,Lionize,Spell,5.0,N/A,N/A,Lyonar,Epic,Mythron,Give <b>Celerity</b> to a friendly minion directly behind your General.
+20276,Luminous Charge,Spell,5.0,N/A,N/A,Vanar,Rare,Unearthed,Summon five joined 0/1 Walls that deal 2 damage to nearby enemies when destroyed.
+10973,Lux Ignis,Minion,5.0,2.0,5.0,Neutral,Epic,Core,"<b>Ranged</b><br/>At the end of your turn, restore 2 Health to all nearby friendly minions. "
+30025,Morin-Khur,Artifact,5.0,N/A,N/A,Magmar,Legendary,ShimZar,"Your General gains +3 Attack. Whenever your General deals damage, hatch all friendly Eggs."
+452,Mortar-maw,Minion,5.0,4.0,4.0,Magmar,Epic,Mythron,"<b>Ranged</b><br/>Whenever this minion attacks, it also damages enemies around its target."
+20206,Nature's Confluence,Spell,5.0,N/A,N/A,Magmar,Epic,ShimZar,Summon four copies of a random Battle Pet in a 2x2 area.
+11031,Necroseer,Minion,5.0,5.0,4.0,Neutral,Basic,Core,<b>Dying Wish</b>: Draw a card.
+20050,Nether Summoning,Spell,5.0,N/A,N/A,Abyssian,Legendary,Core,Summon 2 non-token minions destroyed since the end of your last turn nearby.
+325,Night Fiend,Minion,5.0,3.0,3.0,Abyssian,Common,ShimZar,<b>Opening Gambit</b>: Deal 2 damage to each enemy on or near friendly <b>Shadow Creep</b>.
+232,Nimbus,Minion,5.0,3.0,8.0,Vetruvian,Legendary,ShimZar,"Whenever this minion takes damage, summon a 0/4 Soulburn Obelysk nearby."
+259,Notion of Starless Eternity,Minion,5.0,3.0,3.0,Vetruvian,Mythron,Mythron,<b>Trial</b>: General reaches the other edge of the battlefield with an equipped artifact.<br/><b>Destiny</b>: Each equipped artifact gives your General a tier of ascension.
+44,Oakenheart,Mech,5.0,4.0,5.0,Lyonar,Rare,Immortal,<b>Opening Gambit</b>: Progresses MECHAZ0R build by +20%.<br/>Your other Mech minions have +1/+1.
+127,Onyx Jaguar,Minion,5.0,3.0,3.0,Songhai,Epic,ShimZar,"Whenever a friendly unit is moved for any reason, it gains +1/+1."
+20389,Phoenix Barrage,Spell,5.0,N/A,N/A,Songhai,Common,Mythron,Deal 3 damage to anything.<br/>Put a Phoenix Fire into your action bar.
+20122,Plasma Storm,Spell,5.0,N/A,N/A,Magmar,Basic,Core,Destroy ALL minions with 3 or less Attack.
+11111,Quahog,Minion,5.0,7.0,7.0,Neutral,Rare,Unearthed,Enemy minions destroyed by this are returned to their action bar.
+11060,Rawr,Battle Pet,5.0,3.0,7.0,Neutral,Legendary,ShimZar,"Whenever this minion takes damage, summon a random Battle Pet nearby."
+322,Reaper of the Nine Moons,Minion,5.0,5.0,3.0,Abyssian,Epic,Core,<b>Flying</b><br/><b>Dying Wish</b>: Summon a random minion from the opponent's deck on this space.
+19032,Rogue Warden,Minion,5.0,4.0,3.0,Neutral,Common,Core,<b>Ranged</b>
+246,Sandswirl Reader,Minion,5.0,3.0,4.0,Vetruvian,Rare,Unearthed,<b>Opening Gambit</b>: Return a nearby minion to its action bar. Turn that space into <b>Exhuming Sand</b>.
+111,Scarlet Viper,Minion,5.0,2.0,5.0,Songhai,Common,Core,<b>Flying</b><br/><b>Backstab</b>: (4).
+13,Second Sun,Minion,5.0,0.0,8.0,Lyonar,Rare,Core,<b>Zeal</b>: Gains +8 Attack
+20326,Seeker Squad,Spell,5.0,N/A,N/A,Songhai,Legendary,Immortal,Summon a Heartseeker in each nearby space diagonal from your General.
+318,Shadowdancer,Minion,5.0,4.0,4.0,Abyssian,Rare,Core,"<b>Deathwatch</b>: Deal 1 damage to the enemy General, and restore 1 Health to your General."
+250,Silica Weaver,Mech,5.0,4.0,4.0,Vetruvian,Rare,Immortal,<b>Opening Gambit</b>: Progresses MECHAZ0R build by +40%.
+240,Sirocco,Golem,5.0,4.0,3.0,Vetruvian,Legendary,Ancients,<b>Opening Gambit</b>: Summon a Skyrock Golem on random spaces for each other Golem you've summoned this game.
+30022,Spinecleaver,Artifact,5.0,N/A,N/A,Vetruvian,Legendary,ShimZar,Your General gains +1 Attack. Enemy minions destroyed by your General summon a Bloodfire Totem on that space.
+415,Spirit Harvester,Minion,5.0,5.0,5.0,Magmar,Rare,Core,"At the end of your turn, deal 1 damage to ALL other minions."
+20163,Spirit of the Wild,Spell,5.0,N/A,N/A,Vanar,Epic,Core,Reactivate friendly minions on your opponent's starting side of the battlefield.
+20105,Star's Fury,Spell,5.0,N/A,N/A,Vetruvian,Epic,Core,Summon a Wind Dervish with <b>Rush</b> in front of each enemy minion and General.
+209,Starfire Scarab,Minion,5.0,4.0,6.0,Vetruvian,Common,Core,<b>Blast</b>
+11030,Sunset Paragon,Minion,5.0,3.0,2.0,Neutral,Epic,Core,<b>Opening Gambit</b>: ALL nearby minions deal damage to themselves equal to their Attack.
+20299,Superior Mirage,Spell,5.0,N/A,N/A,Vetruvian,Epic,Unearthed,Summon three copies of an enemy minion nearby it. They disappear when attacked.
+10955,Sworn Defender,Minion,5.0,4.0,7.0,Neutral,Epic,Core,"Whenever your General takes damage, fully heal this minion."
+10985,The High Hand,Minion,5.0,2.0,3.0,Neutral,Common,Core,<b>Opening Gambit</b>: Gains +1/+1 for each card in your opponent's action bar.
+11114,Theobule,Minion,5.0,5.0,6.0,Neutral,Legendary,Unearthed,<b>Opening Gambit</b>: Replace each card in your action bar.
+11097,Trinity Wing,Arcanyst,5.0,4.0,4.0,Neutral,Legendary,Ancients,<b>Flying</b><br/><b>Bond</b>: Put the three Teachings of the Dragon into your action bar.
+20267,Twilight Reiki,Spell,5.0,N/A,N/A,Songhai,Legendary,Unearthed,Put 3 random Songhai minions into your action bar. They cost 1 less.
+10022,Twilight Sorcerer,Minion,5.0,3.0,6.0,Neutral,Epic,Core,<b>Opening Gambit</b>: Put a copy of a random spell you cast this game into your action bar.
+20289,Vespyrian Might,Spell,5.0,N/A,N/A,Vanar,Common,Unearthed,Give a Vespyr minion +2/+2 for each friendly Vespyr.
+426,Visionar,Minion,5.0,6.0,3.0,Magmar,Epic,ShimZar,"Whenever ANY player draws a card, this minion gains +1/+1."
+59,War Exorcist,Minion,5.0,3.0,8.0,Lyonar,Legendary,Mythron,"<b>Provoke</b><br/>At the start of your turn, Holy Immolation your damaged minions."
+55,Windcliffe Protector,Minion,5.0,5.0,5.0,Lyonar,Epic,Mythron,"<b>Provoke</b><br/>When a friendly Windcliffe Alarmist dies, transform this minion into a Windcliffe Alarmist."
+159,Xenkai Cannoneer,Minion,5.0,4.0,4.0,Songhai,Legendary,Mythron,"<b>Ranged</b><br/>Whenever you summon a minion with <b>Ranged</b>, that minion gains <b>Rush</b>."
+360,Abyssal Tormentor,Minion,6.0,6.0,6.0,Abyssian,Legendary,Mythron,<b>Provoke</b><br/>Your <b>Shadow Creep</b> deals damage equal to the number of friendly <b>Shadow Creep</b>.
+19043,Archon Spellbinder,Arcanyst,6.0,7.0,7.0,Neutral,Legendary,Core,Your opponent's non-Bloodbound spells cost 1 more to cast.
+447,Armada,Minion,6.0,5.0,6.0,Magmar,Epic,Immortal,<b>Blood Surge</b>: Deal 5 damage to the closest enemy.
+20146,Aspect of the Mountains,Spell,6.0,N/A,N/A,Vanar,Legendary,Core,Transform ANY minion into a 5/5 Seismic Elemental. Deal 5 damage to enemy minions around it.
+20244,Autarch's Gifts,Spell,6.0,N/A,N/A,Vetruvian,Epic,Ancients,Equip 2 random Vetruvian artifacts.
+220,Aymara Healer,Minion,6.0,5.0,5.0,Vetruvian,Legendary,Core,<b>Provoke</b><br/><b>Dying Wish</b>: Deal 5 damage to the enemy General. Restore 5 Health to your General.
+20331,Betrayal,Spell,6.0,N/A,N/A,Abyssian,Epic,Immortal,Enemy minions nearby their General attack their General.
+20279,Bombard,Spell,6.0,N/A,N/A,Songhai,Rare,Unearthed,Reactivate your minions with <b>Ranged</b>.
+11023,Bonereaper,Minion,6.0,2.0,9.0,Neutral,Epic,Core,"<b>Provoke</b><br/>At the end of your turn, deal 2 damage to each enemy minion around this one."
+20262,Cataclysmic Fault,Spell,6.0,N/A,N/A,Vetruvian,Legendary,Unearthed,Turn the entire center column into <b>Exhuming Sand</b>.
+20124,Chrysalis Burst,Spell,6.0,N/A,N/A,Magmar,Legendary,Core,Summon a random Egg in 4 random spaces.
+30024,Dawn's Eye,Artifact,6.0,N/A,N/A,Lyonar,Legendary,ShimZar,"Your General gains +4 Attack. At the end of your turn, repair all of your artifacts to full durability."
+10980,Deathblighter,Minion,6.0,3.0,4.0,Neutral,Common,Core,<b>Opening Gambit</b>: Deal 3 damage to all enemy minions around it.
+11037,Diamond Golem,Golem,6.0,5.0,11.0,Neutral,Common,Core,
+20360,Divine Liturgy,Spell,6.0,N/A,N/A,Lyonar,Rare,Mythron,Give all friendly minions +Attack equal to their Health.
+556,Draugar Eyolith,Minion,6.0,7.0,14.0,Vanar,Legendary,Immortal,"<b>Build</b>: (2).<br/>While this is building or on the battlefield, enemy minions and Generals can only move 1 space."
+508,Draugar Lord,Vespyr,6.0,4.0,8.0,Vanar,Epic,Core,<b>Dying Wish</b>: Summon a 4/8 Ice Drake on this space.
+424,Dreadnought,Minion,6.0,4.0,6.0,Magmar,Legendary,ShimZar,<b>Rebirth</b><br/>Egg minions you summon gain +2/+2.
+11082,Dust Wailer,Minion,6.0,3.0,4.0,Neutral,Rare,Core,<b>Flying</b><br/><b>Opening Gambit</b>: Deal 3 damage to all enemies in front of this minion.
+552,Echo Deliverant,Mech,6.0,6.0,4.0,Vanar,Rare,Immortal,"Whenever you summon another Mech, summon a copy of it nearby."
+10986,Eclipse,Arcanyst,6.0,3.0,7.0,Neutral,Legendary,Core,"Whenever this minion takes damage, it deals that much damage to the enemy General."
+18,Elyx Stormblade,Minion,6.0,7.0,7.0,Lyonar,Legendary,Core,<b>Provoke</b><br/>Your minions and General may move an additional space
+139,Eternity Painter,Minion,6.0,3.0,4.0,Songhai,Legendary,Unearthed,"At the end of your turn, transform all nearby enemy minions into 0/2 Panddos that cannot be attacked."
+11032,Facestriker,Minion,6.0,4.0,6.0,Neutral,Basic,Core,Deals double damage to Generals.
+20290,Firestorm Mantra,Spell,6.0,N/A,N/A,Songhai,Epic,Unearthed,Steal Health from the enemy General equal to twice the number of spells cast this turn.
+10984,First Sword of Akrane,Minion,6.0,7.0,7.0,Neutral,Common,Core,Your other minions have +1 Attack.
+20063,Fractal Replication,Spell,6.0,N/A,N/A,Magmar,Epic,Core,Summon two copies of a friendly minion nearby that minion.
+20207,Frostburn,Spell,6.0,N/A,N/A,Vanar,Rare,Core,Deal 3 damage to all enemy minions.
+131,Grandmaster Zendo,Minion,6.0,4.0,6.0,Songhai,Legendary,Core,The enemy General moves and attacks automatically.
+252,Grapnel Paradigm,Minion,6.0,5.0,5.0,Vetruvian,Legendary,Immortal,<b>Opening Gambit</b>: Take control of enemy minions with 2 or less Attack on this row.
+11095,Grimes,Minion,6.0,3.0,3.0,Neutral,Rare,Ancients,<b>Opening Gambit</b> and <b>Dying Wish</b>: Summon a random minion from any tribe nearby.
+11077,Grove Lion,Minion,6.0,5.0,5.0,Neutral,Epic,Core,"While this minion is on the battlefield, your General has <b>Forcefield</b>."
+20295,Icebreak Ambush,Spell,6.0,N/A,N/A,Vanar,Epic,Unearthed,Summon an ambush of <b>Infiltrate</b> minions on your opponent's starting side of the battlefield.
+10963,Jax Truesight,Minion,6.0,1.0,1.0,Neutral,Legendary,Core,<b>Ranged</b><br/><b>Opening Gambit</b>: Summon a 1/1 <b>Ranged</b> Mini-Jax in each corner.
+330,Klaxon,Minion,6.0,6.0,6.0,Abyssian,Legendary,ShimZar,<b>Provoke</b><br/><b>Dying Wish</b>: Turn six random spaces into <b>Shadow Creep</b>.
+11153,Lodestar,Minion,6.0,4.0,4.0,Neutral,Epic,Mythron,"<b>Airdrop</b>, <b>Forcefield</b><br/>At the end of BOTH players' turns, pull some things to this minion."
+11107,Magesworn,Arcanyst,6.0,3.0,8.0,Neutral,Legendary,Unearthed,BOTH players cannot cast spells that cost 2 or less.
+405,Makantor Warbeast,Minion,6.0,4.0,4.0,Magmar,Epic,Core,<b>Frenzy</b><br/><b>Rush</b>
+20121,Metamorphosis,Spell,6.0,N/A,N/A,Magmar,Legendary,Core,Transform all enemy minions into 1/1 Magma with no abilities until the end of your opponent's turn.
+352,Moonrider,Minion,6.0,6.0,6.0,Abyssian,Epic,Immortal,<b>Blood Surge</b>: Summon a 4/4 Fiend on a nearby space.
+11149,Mythron Wanderer,Minion,6.0,6.0,6.0,Neutral,Mythron,Mythron,<b>Trial</b>: Have no duplicate cards in your deck.<br/><b>Destiny</b>: Your minions have +1/+1.
+20227,Necrotic Sphere,Spell,6.0,N/A,N/A,Abyssian,Epic,Ancients,Destroy ALL minions nearby your General and summon Wraithlings in their place.
+564,Oak in the Nemeton,Minion,6.0,6.0,6.0,Vanar,Mythron,Mythron,<b>Trial</b>: Have 5 token minions with different names.<br/><b>Destiny</b>: Friendly token minions have +4/+4.
+30038,Ornate Hiogi,Artifact,6.0,N/A,N/A,Songhai,Rare,Immortal,"Whenever you cast a spell, draw a card."
+233,Pantheran,Minion,6.0,6.0,6.0,Vetruvian,Epic,ShimZar,Costs 0 if you've cast all three Scion's Wish spells this game.
+11127,Project Î©,Mech,6.0,1.0,1.0,Neutral,Legendary,Immortal,This minion gains +2/+2 for each other Mech minion you summoned this game.
+45,Prominence,Minion,6.0,4.0,7.0,Lyonar,Epic,Immortal,<b>Blood Surge</b>: Summon a Silverguard Knight nearby your General.
+11132,Q'orrhlma'a,Minion,6.0,6.0,6.0,Neutral,Legendary,Immortal,<b>Opening Gambit</b>: Remove all minions that cost 2 or less from each player's deck.
+11081,Quartermaster Gauj,Minion,6.0,5.0,2.0,Neutral,Legendary,Core,Takes no damage from minions or Generals.
+30053,Radiant Standard,Artifact,6.0,N/A,N/A,Lyonar,Epic,Mythron,"Your General has +3 Attack.<br/>When your General attacks, summon a minion that costs 3 from your deck nearby."
+20154,Rite Of The Undervault,Spell,6.0,N/A,N/A,Abyssian,Epic,Core,Draw to fill your action bar.
+11045,Ruby Rifter,Minion,6.0,4.0,6.0,Neutral,Legendary,Core,"Whenever your General takes damage, draw a card and give this minion +2 Attack."
+11129,S.I.L.V.E.R.,Mech,6.0,7.0,5.0,Neutral,Legendary,Immortal,"Whenever you summon this or another Mech, friendly Mechs gain all keywords of other friendly Mechs."
+10307,Serpenti,Minion,6.0,7.0,4.0,Neutral,Common,Core,<b>Frenzy</b>
+11055,Silverbeak,Minion,6.0,6.0,9.0,Neutral,Common,ShimZar,
+30,Solarius,Minion,6.0,3.0,3.0,Lyonar,Legendary,ShimZar,<b>Zeal</b>: Draw 2 additional cards at the end of your turn.
+11116,Spriggin,Minion,6.0,6.0,6.0,Neutral,Epic,Unearthed,<b>Provoke</b><br/><b>Opening Gambit</b>: Each player summons three Spriggin Kin nearby their General.
+19035,Storm Aratha,Minion,6.0,6.0,5.0,Neutral,Common,Core,<b>Flying</b>
+10207,Stormmetal Golem,Golem,6.0,8.0,8.0,Neutral,Basic,Core,
+261,Swarmking Scarab,Minion,6.0,5.0,7.0,Vetruvian,Legendary,Mythron,"<b>Blast</b><br/>Whenever this minion blasts, summon 1/1 Scarabyte with <b>Flying</b> and <b>Rush</b> in those spaces."
+11047,The Scientist,Arcanyst,6.0,6.0,6.0,Neutral,Epic,Core,"Whenever you play a spell that targets a friendly minion, draw a card."
+357,Underlord Xor'Xuul,Minion,6.0,6.0,1.0,Abyssian,Mythron,Mythron,"<b>Trial</b>: Cast 6 spells that destroy a friendly minion.<br/><b>Destiny</b>: Whenever a friendly minion dies, re-summon it on a random space."
+20373,Unfathomable Rite,Spell,6.0,N/A,N/A,Abyssian,Epic,Mythron,Draw cards from your opponent's deck to fill your action bar.
+314,Vorpal Reaver,Minion,6.0,6.0,6.0,Abyssian,Legendary,Core,<b>Celerity</b><br/><b>Dying Wish</b>: Summon six Wraithlings on random spaces.
+10994,"Zen'Rui, the Blightspawned",Minion,6.0,4.0,4.0,Neutral,Legendary,Core,<b>Opening Gambit</b>: Take control of a nearby enemy minion with 2 or less Attack.
+42,Alabaster Titan,Minion,7.0,5.0,7.0,Lyonar,Legendary,Unearthed,"<b>Opening Gambit</b>: If you have no spells in your deck, equip a full set of equipment."
+514,Ancient Grove,Vespyr,7.0,7.0,7.0,Vanar,Legendary,Core,"<b>Provoke</b><br/><b>Opening Gambit</b>: Your minions gain ""<b>Dying Wish</b>: Summon a 1/1 Treant with <b>Provoke</b>""."
+20282,Aperion's Claim,Spell,7.0,N/A,N/A,Lyonar,Legendary,Unearthed,Destroy ALL minions in a 3x3 area and turn their spaces into <b>Hallowed Ground</b>.
+329,Arcane Devourer,Minion,7.0,8.0,4.0,Abyssian,Epic,ShimZar,<b>Opening Gambit</b>: The next minion you summon this turn costs 1.
+11021,Astral Crusader,Minion,7.0,7.0,6.0,Neutral,Legendary,Core,"Whenever you replace this card, it costs 1 less and gains +1/+1."
+20118,Bounded Lifeforce,Spell,7.0,N/A,N/A,Magmar,Epic,Core,Your General becomes 10/10.
+20318,Call to Arms,Spell,7.0,N/A,N/A,Lyonar,Legendary,Immortal,"Your General gains, ""Minions you summon nearby gain +3/+3."""
+137,Calligrapher,Arcanyst,7.0,3.0,7.0,Songhai,Legendary,Ancients,"<b>Rush</b><br/>Whenever this minion attacks, put three Songhai spells into your action bar at end of turn."
+19046,Dark Nemesis,Minion,7.0,4.0,10.0,Neutral,Legendary,Core,"At the start of your turn, deal 4 damage to the enemy General and this minion gains +4 Attack."
+20028,Dominate Will,Spell,7.0,N/A,N/A,Vetruvian,Rare,Core,Take control of an enemy minion nearby your General.
+10206,Drybone Golem,Golem,7.0,10.0,10.0,Neutral,Basic,Core,
+11029,E'Xun,Minion,7.0,5.0,5.0,Neutral,Legendary,Core,"<b>Forcefield</b><br/>Whenever this minion attacks or is attacked, draw a card."
+11104,Emberwyrm,Minion,7.0,10.0,7.0,Neutral,Common,Unearthed,<b>Flying</b>
+11093,EMP,Golem,7.0,9.0,9.0,Neutral,Rare,Ancients,"<b>Opening Gambit</b>: Dispel ALL minions and Generals, and destroy ALL artifacts."
+20292,Evolutionary Apex,Spell,7.0,N/A,N/A,Magmar,Legendary,Unearthed,BOTH players put all minions in their action bars onto the battlefield nearby their General.
+20293,Flawless Reflection,Spell,7.0,N/A,N/A,Vanar,Legendary,Unearthed,Choose a minion. Transform ALL nearby minions into copies of it.
+541,Ghost Seraphim,Arcanyst,7.0,8.0,9.0,Vanar,Legendary,Ancients,The first spell you cast each turn costs 5 less.
+11010,Grailmaster,Minion,7.0,6.0,6.0,Neutral,Epic,Core,"Whenever you summon a minion, this minion gains a random keyword ability."
+20,Grandmaster Z'ir,Minion,7.0,5.0,12.0,Lyonar,Legendary,Core,"When your General dies, Grandmaster Z'ir becomes your General."
+20359,Ice Age,Spell,7.0,N/A,N/A,Vanar,Legendary,Mythron,Summon Blazing Spines along the outside of the battlefield.
+58,Indominus,Minion,7.0,7.0,9.0,Lyonar,Legendary,Mythron,Your General is <b>Invulnerable</b> BUT cannot move or attack.
+11156,Mnemovore,Minion,7.0,7.0,7.0,Neutral,Legendary,Mythron,"Whenever you summon a minion, burn three cards from your opponent's deck."
+222,Oserix,Minion,7.0,8.0,6.0,Vetruvian,Legendary,Core,<b>Flying</b><br/><b>Dying Wish</b>: Equip 2 random artifacts from your deck.
+10997,Paddo,Minion,7.0,12.0,6.0,Neutral,Legendary,Core,<b>Airdrop</b><br/><b>Opening Gambit</b>: Push ALL nearby minions and Generals to random spaces.
+10966,Pandora,Minion,7.0,3.0,10.0,Neutral,Legendary,Core,"At the end of your turn, summon a 3/3 Spirit Wolf with a random ability into a nearby space."
+36,Peacekeeper,Golem,7.0,5.0,5.0,Lyonar,Legendary,Ancients,"<b>Airdrop</b>, <b>Forcefield</b>, <b>Frenzy</b>, <b>Provoke</b>, <b>Celerity</b>"
+10956,Red Synja,Minion,7.0,7.0,7.0,Neutral,Legendary,Core,"Whenever your General takes damage, deal 7 damage to a random nearby enemy minion."
+11136,Reliquarian,Minion,7.0,3.0,3.0,Neutral,Legendary,Immortal,<b>Opening Gambit</b>: Forge a friendly minion into a Faction artifact with equal Attack.
+10990,Rook,Minion,7.0,5.0,5.0,Neutral,Legendary,Core,"At the end of your turn, this minion gains a random Faction ability."
+11143,Saberspine Alpha,Minion,7.0,5.0,5.0,Neutral,Common,Mythron,<b>Rush</b>
+146,Second-sword Sarugi,Minion,7.0,4.0,7.0,Songhai,Legendary,Immortal,Your spells cost 2 less.
+414,Silithar Elder,Minion,7.0,6.0,6.0,Magmar,Legendary,Core,"<b>Rebirth</b><br/>At the end of your turn, summon a Silithar Elder Egg nearby."
+118,Storm Kage,Minion,7.0,5.0,10.0,Songhai,Legendary,Core,"Whenever one of your spells deals damage, put a Kage Lightning in your action bar."
+347,Stygian Observer,Minion,7.0,7.0,7.0,Abyssian,Legendary,Immortal,<b>Deathwatch</b>: Give minions in your action bar +2/+2.
+408,Unstable Leviathan,Minion,7.0,11.0,11.0,Magmar,Rare,Core,"At the start of your turn, deal 4 damage to a random minion or General."
+11026,War Talon,Minion,7.0,4.0,9.0,Neutral,Common,Core,<b>Frenzy</b><br/><b>Provoke</b>
+19036,Whistling Blade,Minion,7.0,2.0,15.0,Neutral,Common,Core,<b>Provoke</b>
+10996,"Zurael, the Lifegiver",Minion,7.0,4.0,7.0,Neutral,Legendary,Core,<b>Opening Gambit</b>: Summon all non-token friendly minions destroyed on your opponent's last turn on a random space.
+20216,Circle of Desiccation,Spell,8.0,N/A,N/A,Vetruvian,Legendary,ShimZar,Destroy ALL non-Structure minions.
+11121,Dagona,Minion,8.0,8.0,8.0,Neutral,Legendary,Unearthed,"<b>Opening Gambit</b>: Devour ANY minion, anywhere.<br/><b>Dying Wish</b>: Spit out the devoured minion on this space."
+338,Death Knell,Arcanyst,8.0,6.0,6.0,Abyssian,Legendary,Ancients,<b>Opening Gambit</b>: Summon all friendly non-token Arcanysts destroyed this game nearby.
+33,Excelsious,Minion,8.0,6.0,6.0,Lyonar,Legendary,Core,<b>Provoke</b><br/><b>Celerity</b><br/>This minion gains +1/+1 for each time you healed anything this game.
+20383,Extinction Event,Spell,8.0,N/A,N/A,Magmar,Legendary,Mythron,Each of your Eggs hatches into a Katastrophosaurus.
+20219,Flaming Stampede,Spell,8.0,N/A,N/A,Magmar,Legendary,ShimZar,Deal 5 damage to ALL non-Egg minions and Generals.
+538,Grandmaster Embla,Minion,8.0,5.0,5.0,Vanar,Legendary,Core,<b>Opening Gambit</b>: Surround the enemy General with random Walls.
+237,Grandmaster Nosh-Rak,Minion,8.0,4.0,8.0,Vetruvian,Legendary,Core,<b>Blast</b><br/><b>Flying</b><br/>The enemy General takes double damage.
+333,Grandmaster Variax,Minion,8.0,8.0,8.0,Abyssian,Legendary,Core,<b>Opening Gambit</b>: Your Bloodbound Spell costs 3 and is now AWESOME.
+434,Juggernaut,Golem,8.0,4.0,10.0,Magmar,Legendary,Ancients,"<b>Grow</b>: +5/+5<br/>Whenever this minion takes damage, summon that many random Golem Eggs nearby."
+11013,Khymera,Minion,8.0,5.0,12.0,Neutral,Legendary,Core,"Whenever this minion takes damage, summon a random token minion nearby."
+20217,Koan of Horns,Spell,8.0,N/A,N/A,Songhai,Legendary,ShimZar,Transform all minions in your action bar and deck into 0-cost Gore Horns. Draw 3 cards.
+543,Matron Elveiti,Minion,8.0,7.0,5.0,Vanar,Legendary,Unearthed,Minions cannot attack your General.
+11089,Meltdown,Minion,8.0,6.0,6.0,Neutral,Legendary,Ancients,<b>Blood Surge</b>: Deal 6 damage to a random enemy.
+20213,Obliterate,Spell,8.0,N/A,N/A,Abyssian,Legendary,ShimZar,Destroy all friendly <b>Shadow Creep</b> to deal that much damage to all enemies.
+20339,Saurian Finality,Spell,8.0,N/A,N/A,Magmar,Legendary,Immortal,<b>Stun</b> the enemy General.<br/>Your General gains +3 Attack.<br/>Both players lose 3 mana.<br/>Restore 10 Health to your General.
+20220,Sky Phalanx,Spell,8.0,N/A,N/A,Lyonar,Legendary,ShimZar,Summon three Silverguard Knights nearby your General.
+320,Spectral Revenant,Minion,8.0,6.0,6.0,Abyssian,Legendary,Core,"<b>Rush</b><br/>Whenever this damages an enemy minion, deal 4 damage to the enemy General."
+20084,Spiral Technique,Spell,8.0,N/A,N/A,Songhai,Epic,Core,Deal 8 damage to anything.
+20380,Unleash the Evil,Spell,8.0,N/A,N/A,Abyssian,Legendary,Mythron,Summon a copy of the minion your opponent most recently summoned from their action bar. It gains <b>Rush</b> and <b>Flying</b>.
+20212,Winter's Wake,Spell,8.0,N/A,N/A,Vanar,Legendary,ShimZar,Give all friendly Wall minions +4/+4. Those minions can now move.
+20392,Amaranthine Vow,Spell,9.0,N/A,N/A,Lyonar,Legendary,Mythron,Summon around your General all friendly minions with <b>Provoke</b> that died this game.
+20363,Circle of Fabrication,Spell,9.0,N/A,N/A,Vetruvian,Legendary,Mythron,Summon one of each Obelysk from your deck on random spaces.
+20264,Doom,Spell,9.0,N/A,N/A,Abyssian,Legendary,Unearthed,The enemy General is DOOMED and will die after three turns.
+436,Grandmaster Kraigon,Minion,9.0,7.0,7.0,Magmar,Legendary,Core,"<b>Forcefield</b>, <b>Frenzy</b>, <b>Grow</b>: +7/+7.<br/>Your General has:<br/><b>Forcefield</b>, <b>Frenzy</b>, <b>Grow</b>: +7/+7."
+20322,Monolithic Vision,Spell,9.0,N/A,N/A,Vetruvian,Legendary,Immortal,Transform your action bar into six random Vetruvian cards that cost 4 less.
+11147,Worldcore Golem,Golem,9.0,25.0,25.0,Neutral,Common,Mythron,
+20377,Kensho Vortex,Spell,11.0,N/A,N/A,Songhai,Legendary,Mythron,"Costs 1 less for each spell you cast this game. Whenever you cast a spell this turn, summon a minion that costs up to 2 more nearby your General."
+425,Mandrake,Minion,12.0,6.0,6.0,Magmar,Rare,ShimZar,Costs 1 less for each minion summoned from ANY player's action bar this game.
+11044,Blood Taura,Minion,25.0,12.0,12.0,Neutral,Epic,Core,<b>Provoke</b><br/>This minion's cost is your General's health.
