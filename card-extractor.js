@@ -1,3 +1,4 @@
+
 function getCardsJSON() {
 
     console.log("-------------------------------")
@@ -9,10 +10,12 @@ function getCardsJSON() {
     for (i = 0; i < cards.length; i++) {
         var attributes = cards[i].attributes
 
+		/*
         // Skip Unavailable, Hidden, Token, Training Teacher
         if (attributes.isAvailable === false) { continue }
         if (attributes.isHiddenInCollection) { continue }
         if (attributes.rarityName === "Token") { continue }
+		*/
         if (attributes.factionId === 200) { continue }
 
         // Card
@@ -20,11 +23,19 @@ function getCardsJSON() {
         //card.animations = {}
         //card.keywords = []
 
+        // Card metadata
+        card.available = attributes.isAvailable
+        card.hidden = attributes.isHiddenInCollection
+
         // Basic
         card.id = attributes.id
         card.name = attributes.name
         if (!attributes.isGeneral)
             card.mana = attributes.manaCost
+
+        if (card.name == 'Painful Pluck') {
+            console.log(cards[i]);
+        }
 
         // Category
         if (attributes.isArtifact) { card.category = "artifact" }
@@ -114,14 +125,16 @@ function getCardsJSON() {
 
         // Assets
         var animations = attributes.card._private.baseAnimResource
-        var animationId = animations["idle"]
-        var resource = RSX[animationId]
-        //card.frame = resource.framePrefix
-        //card.plist = resource.plist
-        var sprite = resource.img
+        if (animations) {
+          var animationId = animations["idle"]
+          var resource = RSX[animationId]
+          //card.frame = resource.framePrefix
+          //card.plist = resource.plist
+          var sprite = resource.img
+        }
 
         // Slug
-        if (card.isGeneral) {
+        if (animations) {
             var url = sprite
             var pieces = url.split("/")
             var filename = pieces[pieces.length - 1]
@@ -131,14 +144,15 @@ function getCardsJSON() {
         /*
         var cardTypeAttack = attributes.isArtifact || attributes.isSpell ? "_active.gif" : "_attack.gif"
         var cardTypeIdle = attributes.isArtifact || attributes.isSpell ? "_idle.png" : "_idle.gif"
- 
+
         // Card GIF
         card.attackAnim = "icons/" + card.id + cardTypeAttack
         card.idleAnim = "icons/" + card.id + cardTypeIdle
         */
         // Save
-        if (card["id"] < 1000000)
+        if (card.id < 1000000) {
             data.push(card)
+        }
 
         //console.log("-------------------------------")
         //console.log(card.name + " - " + card.category + " - " + card.id)
@@ -154,22 +168,3 @@ function getCardsJSON() {
 }
 
 copy(getCardsJSON());
-
-
-
-
-/*console.log(Object.keys(card_list))
-        card_list.forEach((key)=>{
-            if(key.setName == "Immortal"){
-            var link = document.createElement('a');
-            link.href = key.gifUrl;
-            link.download = key.localGif + '.gif';
-            link.className = "link";
-            link.innerHTML = key.gifUrl;
-            console.log(link)
-            document.body.appendChild(link);
-            link.click();
-            //document.body.removeChild(link);
-            }
-            
-        })*/
