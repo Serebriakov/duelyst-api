@@ -4,6 +4,7 @@
 
 import json
 import re
+import sys
 
 def getCardImageName(p):
     return getCardName(p).replace(" ", "_")
@@ -62,9 +63,9 @@ def getTags(p):
         output += u' [[Rebirth]]'
     if (re.search(r'Summon.*Dervish', p['description'], re.IGNORECASE)):
         output += u' [[Summon Dervish]]'
+    if (re.search(r'(put|add).*(in|to) your action bar', p['description'], re.IGNORECASE)):
+        output += u' [[Draw]]'
 
-    # Unify some word variants
-    output = re.sub(r"Stunned", "Stun", output)
     return output
 
 
@@ -139,44 +140,52 @@ def getCardName(p):
     return p['name']
 
 
+output_filter = ''
+if len(sys.argv) > 1:
+    output_filter = sys.argv[1]
+
 
 with open('cards.json', encoding='utf-8') as json_file:
     data = json.load(json_file)
     for p in data:
         if p['id'] < 1000000 and getBlacklisted(p) == False:
-            print(u"{{-start-}}")
-            print(u"'''Data:Cards/" + getCardName(p) + u"'''")
-            print(u"This page is maintained by bots. MANUAL CHANGES '''WILL''' BE OVERWRITTEN.\n")
-            print(u"Please edit the user-facing display page:  [[{{#dplreplace:{{PAGENAME}}|Data:Cards/|}}]]")
-            print(u'<onlyinclude>')
-            print(u'{{Card Metadata')
-            print(u'| name = ' + getCardName(p))
-            print(u'| image = ' + getCardImageName(p))
-            print(u'| set = ' + getCardSet(p))
-            print(u'| faction = ' + getFaction(p))
-            print(u'| rarity = ' + p['rarity'])
-            print(u'| type = ' + getType(p))
-            print(u'| race = ' + getRace(p))
+            output = ''
+            output += u"{{-start-}}" + '\n'
+            output += u"'''Data:Cards/" + getCardName(p) + u"'''" + '\n'
+            output += u"This page is maintained by bots. MANUAL CHANGES '''WILL''' BE OVERWRITTEN.\n" + '\n'
+            output += u"Please edit the user-facing display page:  [[{{#dplreplace:{{PAGENAME}}|Data:Cards/|}}]]" + '\n'
+            output += u'<onlyinclude>' + '\n'
+            output += u'{{Card Metadata' + '\n'
+            output += u'| name = ' + getCardName(p) + '\n'
+            output += u'| image = ' + getCardImageName(p) + '\n'
+            output += u'| set = ' + getCardSet(p) + '\n'
+            output += u'| faction = ' + getFaction(p) + '\n'
+            output += u'| rarity = ' + p['rarity'] + '\n'
+            output += u'| type = ' + getType(p) + '\n'
+            output += u'| race = ' + getRace(p) + '\n'
             try:
-                print(u'| cost = %d' % p['mana'])
+                output += u'| cost = %d' % p['mana'] + '\n'
             except: KeyError
             try:
-                print(u'| attack = %d' % p['attack'])
-                print(u'| hp = %d' % p['hp'])
+                output += u'| attack = %d' % p['attack'] + '\n'
+                output += u'| hp = %d' % p['hp'] + '\n'
             except: KeyError
-            print(u'| abilities = ' + getAbilities(p))
-            print(u'| tags = ' + getTags(p))
-            print(u'| desc = ' + getDescription(p))
-            print(u'| link = ')
-            print(u'| id = %d' % p['id'])
-            print(u'| rotation = standard')
-            print(u'| available = %s' % p['available'])
-            print(u'| hidden = %s' % p['hidden'])
-            print(u"}}")  # End of Card Metadata
-            print(getCategories(p))
-            print(u'</onlyinclude>')
-            # print(u'\n{{Display Card Metadata}}')
-            print(u"{{-stop-}}")
+            output += u'| abilities = ' + getAbilities(p) + '\n'
+            output += u'| tags = ' + getTags(p) + '\n'
+            output += u'| desc = ' + getDescription(p) + '\n'
+            output += u'| link = ' + '\n'
+            output += u'| id = %d' % p['id'] + '\n'
+            output += u'| rotation = standard' + '\n'
+            output += u'| available = %s' % p['available'] + '\n'
+            output += u'| hidden = %s' % p['hidden'] + '\n'
+            output += u"}}" + '\n' # End of Card Metadata
+            output += getCategories(p) + '\n'
+            output += u'</onlyinclude>' + '\n'
+            # output += u'\n{{Display Card Metadata}}' + '\n'
+            output += u"{{-stop-}}" + '\n'
+
+            if len(output_filter) == 0 or re.search(output_filter, output, re.IGNORECASE):
+                print(output)
 
             # Mark this card as done
             processed_cards += [getCardName(p)]
