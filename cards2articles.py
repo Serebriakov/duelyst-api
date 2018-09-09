@@ -63,7 +63,7 @@ def getTags(p):
         output += u' [[Rebirth]]'
     if (re.search(r'Summon.*Dervish', p['description'], re.IGNORECASE)):
         output += u' [[Summon Dervish]]'
-    if (re.search(r'(put|add).*(in|to) your action bar', p['description'], re.IGNORECASE)):
+    if (re.search(r'(put|add|return).*(in|to) your action bar', p['description'], re.IGNORECASE)):
         output += u' [[Draw]]'
 
     return output

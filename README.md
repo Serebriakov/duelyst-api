@@ -11,7 +11,6 @@ I don't know how to do that. This CSV file is currently out of date as a result.
 ## 3. Updating the Duelyst wiki articles
 The python script cards2articles.py will generate a txt file ready to import using pywikibot.
 todo: better describe this process
-todo: implement a way to only generate a subset of card articles, to limit the overwriting of wiki manual edits
 
 ## 4. Generating animated gif files
 The python script cards2gifs.py will generate animated gif files from the game's png and plist resources, and rename them correctly thanks to the mapping found in cards.json
